@@ -1,0 +1,5 @@
+component,distribution,param1_name,param1,param2_name,param2,param3_name,param3,upper_bound_min,mean_min
+setup,burr12,c,2.86594,k,0.74544,scale,4.39886,60,6.93
+on_scene,gamma,shape,3.81963,scale,5.36807,,,180,20.5
+patient_handling,lognormal,mu,2.31991,sigma,0.75984,,,180,13.58
+cleaning,lognormal,mu,1.65067,sigma,0.88819,,,180,7.73

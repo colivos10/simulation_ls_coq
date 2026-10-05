@@ -1,0 +1,4820 @@
+node,comuna,weight
+N0001,Coquimbo,1
+N0002,Coquimbo,1
+N0003,Coquimbo,1
+N0004,Coquimbo,1
+N0005,Coquimbo,1
+N0006,Coquimbo,1
+N0007,Coquimbo,1
+N0008,Coquimbo,1
+N0009,Coquimbo,1
+N0010,Coquimbo,1
+N0011,Coquimbo,1
+N0012,Coquimbo,1
+N0013,Coquimbo,1
+N0014,Coquimbo,1
+N0015,Coquimbo,1
+N0016,Coquimbo,1
+N0017,Coquimbo,1
+N0018,Coquimbo,1
+N0019,Coquimbo,1
+N0020,Coquimbo,1
+N0021,Coquimbo,1
+N0022,Coquimbo,1
+N0023,Coquimbo,1
+N0024,Coquimbo,1
+N0025,Coquimbo,1
+N0026,Coquimbo,1
+N0027,Coquimbo,1
+N0028,Coquimbo,1
+N0029,Coquimbo,1
+N0030,Coquimbo,1
+N0031,Coquimbo,1
+N0032,Coquimbo,1
+N0033,Coquimbo,1
+N0034,Coquimbo,1
+N0035,Coquimbo,1
+N0036,Coquimbo,1
+N0037,Coquimbo,1
+N0038,Coquimbo,1
+N0039,Coquimbo,1
+N0040,Coquimbo,1
+N0041,Coquimbo,1
+N0042,Coquimbo,1
+N0043,Coquimbo,1
+N0044,Coquimbo,1
+N0045,Coquimbo,1
+N0046,Coquimbo,1
+N0047,Coquimbo,1
+N0048,Coquimbo,1
+N0049,Coquimbo,1
+N0050,Coquimbo,1
+N0051,Coquimbo,1
+N0052,Coquimbo,1
+N0053,Coquimbo,1
+N0054,Coquimbo,1
+N0055,Coquimbo,1
+N0056,Coquimbo,1
+N0057,Coquimbo,1
+N0058,Coquimbo,1
+N0059,Coquimbo,1
+N0060,Coquimbo,1
+N0061,Coquimbo,1
+N0062,Coquimbo,1
+N0063,Coquimbo,1
+N0064,Coquimbo,1
+N0065,Coquimbo,1
+N0066,Coquimbo,1
+N0067,Coquimbo,1
+N0068,Coquimbo,1
+N0069,Coquimbo,1
+N0070,Coquimbo,1
+N0071,Coquimbo,1
+N0072,Coquimbo,1
+N0073,Coquimbo,1
+N0074,Coquimbo,1
+N0075,Coquimbo,1
+N0076,Coquimbo,1
+N0077,Coquimbo,1
+N0078,Coquimbo,1
+N0079,Coquimbo,1
+N0080,Coquimbo,1
+N0081,Coquimbo,1
+N0082,Coquimbo,1
+N0083,Coquimbo,1
+N0084,Coquimbo,2
+N0085,Coquimbo,1
+N0086,Coquimbo,1
+N0087,Coquimbo,1
+N0088,Coquimbo,1
+N0089,Coquimbo,1
+N0090,Coquimbo,1
+N0091,Coquimbo,1
+N0092,Coquimbo,1
+N0093,Coquimbo,1
+N0094,Coquimbo,1
+N0095,Coquimbo,2
+N0096,Coquimbo,1
+N0097,Coquimbo,1
+N0098,Coquimbo,1
+N0099,Coquimbo,1
+N0100,Coquimbo,1
+N0101,Coquimbo,1
+N0102,Coquimbo,1
+N0103,Coquimbo,1
+N0104,Coquimbo,1
+N0105,Coquimbo,1
+N0106,Coquimbo,1
+N0107,Coquimbo,1
+N0108,Coquimbo,1
+N0109,Coquimbo,1
+N0110,Coquimbo,1
+N0111,Coquimbo,1
+N0112,Coquimbo,1
+N0113,Coquimbo,2
+N0114,Coquimbo,1
+N0115,Coquimbo,1
+N0116,Coquimbo,1
+N0117,Coquimbo,1
+N0118,Coquimbo,1
+N0119,Coquimbo,1
+N0120,Coquimbo,1
+N0121,Coquimbo,2
+N0122,Coquimbo,1
+N0123,Coquimbo,1
+N0124,Coquimbo,1
+N0125,Coquimbo,1
+N0126,Coquimbo,1
+N0127,Coquimbo,1
+N0128,Coquimbo,1
+N0129,Coquimbo,1
+N0130,Coquimbo,1
+N0131,Coquimbo,1
+N0132,Coquimbo,1
+N0133,Coquimbo,1
+N0134,Coquimbo,1
+N0135,Coquimbo,1
+N0136,Coquimbo,1
+N0137,Coquimbo,1
+N0138,Coquimbo,1
+N0139,Coquimbo,1
+N0140,Coquimbo,1
+N0141,Coquimbo,1
+N0142,Coquimbo,1
+N0143,Coquimbo,1
+N0144,Coquimbo,1
+N0145,Coquimbo,1
+N0146,Coquimbo,1
+N0147,Coquimbo,1
+N0148,Coquimbo,1
+N0149,Coquimbo,1
+N0150,Coquimbo,1
+N0151,Coquimbo,1
+N0152,Coquimbo,1
+N0153,Coquimbo,1
+N0154,Coquimbo,1
+N0155,Coquimbo,1
+N0156,Coquimbo,1
+N0157,Coquimbo,1
+N0158,Coquimbo,1
+N0159,Coquimbo,1
+N0160,Coquimbo,1
+N0161,Coquimbo,1
+N0162,Coquimbo,1
+N0163,Coquimbo,2
+N0164,Coquimbo,1
+N0165,Coquimbo,1
+N0166,Coquimbo,1
+N0167,Coquimbo,2
+N0168,Coquimbo,1
+N0169,Coquimbo,1
+N0170,Coquimbo,1
+N0171,Coquimbo,1
+N0172,Coquimbo,1
+N0173,Coquimbo,1
+N0174,Coquimbo,1
+N0175,Coquimbo,1
+N0176,Coquimbo,1
+N0177,Coquimbo,1
+N0178,Coquimbo,2
+N0179,Coquimbo,1
+N0180,Coquimbo,1
+N0181,Coquimbo,2
+N0182,Coquimbo,1
+N0183,Coquimbo,4
+N0184,Coquimbo,1
+N0185,Coquimbo,2
+N0186,Coquimbo,1
+N0187,Coquimbo,1
+N0188,Coquimbo,1
+N0189,Coquimbo,1
+N0190,Coquimbo,1
+N0191,Coquimbo,3
+N0192,Coquimbo,3
+N0193,Coquimbo,2
+N0194,Coquimbo,3
+N0195,Coquimbo,1
+N0196,Coquimbo,2
+N0197,Coquimbo,3
+N0198,Coquimbo,1
+N0199,Coquimbo,3
+N0200,Coquimbo,2
+N0201,Coquimbo,1
+N0202,Coquimbo,1
+N0203,Coquimbo,1
+N0204,Coquimbo,1
+N0205,Coquimbo,1
+N0206,Coquimbo,1
+N0207,Coquimbo,1
+N0208,Coquimbo,1
+N0209,Coquimbo,1
+N0210,Coquimbo,1
+N0211,Coquimbo,1
+N0212,Coquimbo,1
+N0213,Coquimbo,1
+N0214,Coquimbo,1
+N0215,Coquimbo,1
+N0216,Coquimbo,1
+N0217,Coquimbo,1
+N0218,Coquimbo,1
+N0219,Coquimbo,1
+N0220,Coquimbo,1
+N0221,Coquimbo,1
+N0222,Coquimbo,1
+N0223,Coquimbo,1
+N0224,Coquimbo,1
+N0225,Coquimbo,1
+N0226,Coquimbo,1
+N0227,Coquimbo,1
+N0228,Coquimbo,1
+N0229,Coquimbo,1
+N0230,Coquimbo,1
+N0231,Coquimbo,1
+N0232,Coquimbo,1
+N0233,Coquimbo,1
+N0234,Coquimbo,4
+N0235,Coquimbo,2
+N0236,Coquimbo,2
+N0237,Coquimbo,1
+N0238,Coquimbo,1
+N0239,Coquimbo,2
+N0240,Coquimbo,4
+N0241,Coquimbo,2
+N0242,Coquimbo,2
+N0243,Coquimbo,2
+N0244,Coquimbo,1
+N0245,Coquimbo,1
+N0246,Coquimbo,1
+N0247,Coquimbo,1
+N0248,Coquimbo,1
+N0249,Coquimbo,1
+N0250,Coquimbo,1
+N0251,Coquimbo,1
+N0252,Coquimbo,1
+N0253,Coquimbo,1
+N0254,Coquimbo,1
+N0255,Coquimbo,1
+N0256,Coquimbo,1
+N0257,Coquimbo,7
+N0258,Coquimbo,1
+N0259,Coquimbo,3
+N0260,Coquimbo,3
+N0261,Coquimbo,1
+N0262,Coquimbo,1
+N0263,Coquimbo,4
+N0264,Coquimbo,3
+N0265,Coquimbo,3
+N0266,Coquimbo,2
+N0267,Coquimbo,3
+N0268,Coquimbo,2
+N0269,Coquimbo,6
+N0270,Coquimbo,2
+N0271,Coquimbo,1
+N0272,Coquimbo,1
+N0273,Coquimbo,1
+N0274,Coquimbo,1
+N0275,Coquimbo,1
+N0276,Coquimbo,1
+N0277,Coquimbo,2
+N0278,Coquimbo,1
+N0279,Coquimbo,1
+N0280,Coquimbo,12
+N0281,Coquimbo,1
+N0282,Coquimbo,5
+N0283,Coquimbo,2
+N0284,Coquimbo,2
+N0285,Coquimbo,2
+N0286,Coquimbo,5
+N0287,Coquimbo,4
+N0288,Coquimbo,3
+N0289,Coquimbo,7
+N0290,Coquimbo,1
+N0291,Coquimbo,2
+N0292,Coquimbo,1
+N0293,Coquimbo,1
+N0294,Coquimbo,1
+N0295,Coquimbo,2
+N0296,Coquimbo,1
+N0297,Coquimbo,3
+N0298,Coquimbo,1
+N0299,Coquimbo,1
+N0300,Coquimbo,3
+N0301,Coquimbo,1
+N0302,Coquimbo,1
+N0303,Coquimbo,1
+N0304,Coquimbo,1
+N0305,Coquimbo,1
+N0306,Coquimbo,2
+N0307,Coquimbo,2
+N0308,Coquimbo,1
+N0309,Coquimbo,1
+N0310,Coquimbo,2
+N0311,Coquimbo,1
+N0312,Coquimbo,1
+N0313,Coquimbo,1
+N0314,Coquimbo,1
+N0315,Coquimbo,2
+N0316,Coquimbo,4
+N0317,Coquimbo,1
+N0318,Coquimbo,1
+N0319,Coquimbo,1
+N0320,Coquimbo,1
+N0321,Coquimbo,2
+N0322,Coquimbo,4
+N0323,Coquimbo,6
+N0324,Coquimbo,2
+N0325,Coquimbo,17
+N0326,Coquimbo,3
+N0327,Coquimbo,1
+N0328,Coquimbo,1
+N0329,Coquimbo,1
+N0330,Coquimbo,2
+N0331,Coquimbo,1
+N0332,Coquimbo,1
+N0333,Coquimbo,9
+N0334,Coquimbo,3
+N0335,Coquimbo,1
+N0336,Coquimbo,2
+N0337,Coquimbo,1
+N0338,Coquimbo,1
+N0339,Coquimbo,1
+N0340,Coquimbo,1
+N0341,Coquimbo,1
+N0342,Coquimbo,1
+N0343,Coquimbo,1
+N0344,Coquimbo,2
+N0345,Coquimbo,1
+N0346,Coquimbo,2
+N0347,Coquimbo,5
+N0348,Coquimbo,2
+N0349,Coquimbo,5
+N0350,Coquimbo,7
+N0351,Coquimbo,1
+N0352,Coquimbo,4
+N0353,Coquimbo,2
+N0354,Coquimbo,1
+N0355,Coquimbo,1
+N0356,Coquimbo,1
+N0357,Coquimbo,1
+N0358,Coquimbo,1
+N0359,Coquimbo,1
+N0360,Coquimbo,1
+N0361,Coquimbo,7
+N0362,Coquimbo,2
+N0363,Coquimbo,1
+N0364,Coquimbo,2
+N0365,Coquimbo,1
+N0366,Coquimbo,1
+N0367,Coquimbo,1
+N0368,Coquimbo,1
+N0369,Coquimbo,1
+N0370,Coquimbo,1
+N0371,Coquimbo,1
+N0372,Coquimbo,1
+N0373,Coquimbo,1
+N0374,Coquimbo,1
+N0375,Coquimbo,1
+N0376,Coquimbo,2
+N0377,Coquimbo,1
+N0378,Coquimbo,1
+N0379,Coquimbo,1
+N0380,Coquimbo,3
+N0381,Coquimbo,1
+N0382,Coquimbo,2
+N0383,Coquimbo,1
+N0384,Coquimbo,1
+N0385,Coquimbo,3
+N0386,Coquimbo,1
+N0387,Coquimbo,2
+N0388,Coquimbo,2
+N0389,Coquimbo,1
+N0390,Coquimbo,1
+N0391,Coquimbo,1
+N0392,Coquimbo,2
+N0393,Coquimbo,2
+N0394,Coquimbo,1
+N0395,Coquimbo,2
+N0396,Coquimbo,1
+N0397,Coquimbo,1
+N0398,Coquimbo,1
+N0399,Coquimbo,2
+N0400,Coquimbo,3
+N0401,Coquimbo,4
+N0402,Coquimbo,1
+N0403,Coquimbo,1
+N0404,Coquimbo,1
+N0405,Coquimbo,1
+N0406,Coquimbo,1
+N0407,Coquimbo,1
+N0408,Coquimbo,1
+N0409,Coquimbo,4
+N0410,Coquimbo,1
+N0411,Coquimbo,1
+N0412,Coquimbo,1
+N0413,Coquimbo,1
+N0414,Coquimbo,1
+N0415,Coquimbo,5
+N0416,Coquimbo,5
+N0417,Coquimbo,4
+N0418,Coquimbo,4
+N0419,Coquimbo,1
+N0420,Coquimbo,5
+N0421,Coquimbo,4
+N0422,Coquimbo,3
+N0423,Coquimbo,17
+N0424,Coquimbo,5
+N0425,Coquimbo,9
+N0426,Coquimbo,2
+N0427,Coquimbo,4
+N0428,Coquimbo,1
+N0429,Coquimbo,1
+N0430,Coquimbo,1
+N0431,Coquimbo,1
+N0432,Coquimbo,2
+N0433,Coquimbo,6
+N0434,Coquimbo,1
+N0435,Coquimbo,1
+N0436,Coquimbo,1
+N0437,Coquimbo,3
+N0438,Coquimbo,4
+N0439,Coquimbo,1
+N0440,Coquimbo,1
+N0441,Coquimbo,1
+N0442,Coquimbo,6
+N0443,Coquimbo,1
+N0444,Coquimbo,4
+N0445,Coquimbo,5
+N0446,Coquimbo,2
+N0447,Coquimbo,6
+N0448,Coquimbo,2
+N0449,Coquimbo,5
+N0450,Coquimbo,1
+N0451,Coquimbo,1
+N0452,Coquimbo,1
+N0453,Coquimbo,1
+N0454,Coquimbo,1
+N0455,Coquimbo,1
+N0456,Coquimbo,1
+N0457,Coquimbo,1
+N0458,Coquimbo,1
+N0459,Coquimbo,1
+N0460,Coquimbo,1
+N0461,Coquimbo,1
+N0462,Coquimbo,1
+N0463,Coquimbo,9
+N0464,Coquimbo,1
+N0465,Coquimbo,2
+N0466,Coquimbo,1
+N0467,Coquimbo,1
+N0468,Coquimbo,1
+N0469,Coquimbo,3
+N0470,Coquimbo,2
+N0471,Coquimbo,3
+N0472,Coquimbo,1
+N0473,Coquimbo,2
+N0474,Coquimbo,1
+N0475,Coquimbo,2
+N0476,Coquimbo,6
+N0477,Coquimbo,2
+N0478,Coquimbo,4
+N0479,Coquimbo,2
+N0480,Coquimbo,6
+N0481,Coquimbo,3
+N0482,Coquimbo,2
+N0483,Coquimbo,1
+N0484,Coquimbo,2
+N0485,Coquimbo,6
+N0486,Coquimbo,3
+N0487,Coquimbo,6
+N0488,Coquimbo,5
+N0489,Coquimbo,2
+N0490,Coquimbo,3
+N0491,Coquimbo,2
+N0492,Coquimbo,1
+N0493,Coquimbo,5
+N0494,Coquimbo,2
+N0495,Coquimbo,1
+N0496,Coquimbo,1
+N0497,Coquimbo,3
+N0498,Coquimbo,1
+N0499,Coquimbo,1
+N0500,Coquimbo,1
+N0501,Coquimbo,1
+N0502,Coquimbo,2
+N0503,Coquimbo,1
+N0504,Coquimbo,1
+N0505,Coquimbo,2
+N0506,Coquimbo,2
+N0507,Coquimbo,1
+N0508,Coquimbo,1
+N0509,Coquimbo,2
+N0510,Coquimbo,1
+N0511,Coquimbo,4
+N0512,Coquimbo,9
+N0513,Coquimbo,2
+N0514,Coquimbo,1
+N0515,Coquimbo,2
+N0516,Coquimbo,2
+N0517,Coquimbo,1
+N0518,Coquimbo,2
+N0519,Coquimbo,2
+N0520,Coquimbo,1
+N0521,Coquimbo,2
+N0522,Coquimbo,4
+N0523,Coquimbo,3
+N0524,Coquimbo,4
+N0525,Coquimbo,1
+N0526,Coquimbo,6
+N0527,Coquimbo,6
+N0528,Coquimbo,13
+N0529,Coquimbo,12
+N0530,Coquimbo,8
+N0531,Coquimbo,14
+N0532,Coquimbo,14
+N0533,Coquimbo,3
+N0534,Coquimbo,3
+N0535,Coquimbo,4
+N0536,Coquimbo,2
+N0537,Coquimbo,16
+N0538,Coquimbo,4
+N0539,Coquimbo,25
+N0540,Coquimbo,3
+N0541,Coquimbo,3
+N0542,Coquimbo,6
+N0543,Coquimbo,2
+N0544,Coquimbo,7
+N0545,Coquimbo,2
+N0546,Coquimbo,1
+N0547,Coquimbo,1
+N0548,Coquimbo,2
+N0549,Coquimbo,5
+N0550,Coquimbo,1
+N0551,Coquimbo,2
+N0552,Coquimbo,2
+N0553,Coquimbo,5
+N0554,Coquimbo,4
+N0555,Coquimbo,10
+N0556,Coquimbo,4
+N0557,Coquimbo,2
+N0558,Coquimbo,2
+N0559,Coquimbo,3
+N0560,Coquimbo,5
+N0561,Coquimbo,5
+N0562,Coquimbo,1
+N0563,Coquimbo,2
+N0564,Coquimbo,2
+N0565,Coquimbo,2
+N0566,Coquimbo,1
+N0567,Coquimbo,3
+N0568,Coquimbo,4
+N0569,Coquimbo,8
+N0570,Coquimbo,2
+N0571,Coquimbo,3
+N0572,Coquimbo,3
+N0573,Coquimbo,1
+N0574,Coquimbo,2
+N0575,Coquimbo,5
+N0576,Coquimbo,3
+N0577,Coquimbo,3
+N0578,Coquimbo,3
+N0579,Coquimbo,4
+N0580,Coquimbo,3
+N0581,Coquimbo,7
+N0582,Coquimbo,6
+N0583,Coquimbo,17
+N0584,Coquimbo,4
+N0585,Coquimbo,3
+N0586,Coquimbo,4
+N0587,Coquimbo,19
+N0588,Coquimbo,4
+N0589,Coquimbo,5
+N0590,Coquimbo,5
+N0591,Coquimbo,2
+N0592,Coquimbo,2
+N0593,Coquimbo,1
+N0594,Coquimbo,1
+N0595,Coquimbo,1
+N0596,Coquimbo,1
+N0597,Coquimbo,1
+N0598,Coquimbo,4
+N0599,Coquimbo,1
+N0600,Coquimbo,1
+N0601,Coquimbo,3
+N0602,Coquimbo,2
+N0603,Coquimbo,3
+N0604,Coquimbo,1
+N0605,Coquimbo,7
+N0606,Coquimbo,5
+N0607,Coquimbo,10
+N0608,Coquimbo,4
+N0609,Coquimbo,1
+N0610,Coquimbo,3
+N0611,Coquimbo,8
+N0612,Coquimbo,2
+N0613,Coquimbo,4
+N0614,Coquimbo,4
+N0615,Coquimbo,10
+N0616,Coquimbo,7
+N0617,Coquimbo,5
+N0618,Coquimbo,2
+N0619,Coquimbo,3
+N0620,Coquimbo,4
+N0621,Coquimbo,5
+N0622,Coquimbo,3
+N0623,Coquimbo,5
+N0624,Coquimbo,6
+N0625,Coquimbo,4
+N0626,Coquimbo,7
+N0627,Coquimbo,5
+N0628,Coquimbo,4
+N0629,Coquimbo,5
+N0630,Coquimbo,5
+N0631,Coquimbo,3
+N0632,Coquimbo,7
+N0633,Coquimbo,10
+N0634,Coquimbo,4
+N0635,Coquimbo,3
+N0636,Coquimbo,1
+N0637,Coquimbo,1
+N0638,Coquimbo,4
+N0639,Coquimbo,3
+N0640,Coquimbo,1
+N0641,Coquimbo,2
+N0642,Coquimbo,16
+N0643,Coquimbo,1
+N0644,Coquimbo,1
+N0645,Coquimbo,2
+N0646,Coquimbo,2
+N0647,Coquimbo,1
+N0648,Coquimbo,5
+N0649,Coquimbo,1
+N0650,Coquimbo,1
+N0651,Coquimbo,1
+N0652,Coquimbo,1
+N0653,Coquimbo,1
+N0654,Coquimbo,1
+N0655,Coquimbo,3
+N0656,Coquimbo,1
+N0657,Coquimbo,1
+N0658,Coquimbo,4
+N0659,Coquimbo,3
+N0660,Coquimbo,2
+N0661,Coquimbo,1
+N0662,Coquimbo,6
+N0663,Coquimbo,6
+N0664,Coquimbo,14
+N0665,Coquimbo,5
+N0666,Coquimbo,8
+N0667,Coquimbo,3
+N0668,Coquimbo,5
+N0669,Coquimbo,7
+N0670,Coquimbo,8
+N0671,Coquimbo,3
+N0672,Coquimbo,5
+N0673,Coquimbo,8
+N0674,Coquimbo,4
+N0675,Coquimbo,9
+N0676,Coquimbo,7
+N0677,Coquimbo,2
+N0678,Coquimbo,1
+N0679,Coquimbo,5
+N0680,Coquimbo,2
+N0681,Coquimbo,11
+N0682,Coquimbo,8
+N0683,Coquimbo,7
+N0684,Coquimbo,3
+N0685,Coquimbo,2
+N0686,Coquimbo,3
+N0687,Coquimbo,5
+N0688,Coquimbo,11
+N0689,Coquimbo,6
+N0690,Coquimbo,2
+N0691,Coquimbo,2
+N0692,Coquimbo,3
+N0693,Coquimbo,2
+N0694,Coquimbo,2
+N0695,Coquimbo,1
+N0696,Coquimbo,2
+N0697,Coquimbo,2
+N0698,Coquimbo,3
+N0699,Coquimbo,2
+N0700,Coquimbo,1
+N0701,Coquimbo,1
+N0702,Coquimbo,1
+N0703,Coquimbo,9
+N0704,Coquimbo,5
+N0705,Coquimbo,6
+N0706,Coquimbo,1
+N0707,Coquimbo,10
+N0708,Coquimbo,2
+N0709,Coquimbo,15
+N0710,Coquimbo,11
+N0711,Coquimbo,15
+N0712,Coquimbo,9
+N0713,Coquimbo,5
+N0714,Coquimbo,5
+N0715,Coquimbo,1
+N0716,Coquimbo,3
+N0717,Coquimbo,4
+N0718,Coquimbo,5
+N0719,Coquimbo,4
+N0720,Coquimbo,5
+N0721,Coquimbo,8
+N0722,Coquimbo,8
+N0723,Coquimbo,9
+N0724,Coquimbo,3
+N0725,Coquimbo,7
+N0726,Coquimbo,10
+N0727,Coquimbo,8
+N0728,Coquimbo,13
+N0729,Coquimbo,9
+N0730,Coquimbo,2
+N0731,Coquimbo,9
+N0732,Coquimbo,24
+N0733,Coquimbo,4
+N0734,Coquimbo,6
+N0735,Coquimbo,17
+N0736,Coquimbo,4
+N0737,Coquimbo,4
+N0738,Coquimbo,1
+N0739,Coquimbo,1
+N0740,Coquimbo,8
+N0741,Coquimbo,12
+N0742,Coquimbo,10
+N0743,Coquimbo,1
+N0744,Coquimbo,1
+N0745,Coquimbo,3
+N0746,Coquimbo,1
+N0747,Coquimbo,5
+N0748,Coquimbo,2
+N0749,Coquimbo,9
+N0750,Coquimbo,2
+N0751,Coquimbo,3
+N0752,Coquimbo,7
+N0753,Coquimbo,4
+N0754,Coquimbo,1
+N0755,Coquimbo,7
+N0756,Coquimbo,5
+N0757,Coquimbo,7
+N0758,Coquimbo,4
+N0759,Coquimbo,3
+N0760,Coquimbo,6
+N0761,Coquimbo,19
+N0762,Coquimbo,8
+N0763,Coquimbo,2
+N0764,Coquimbo,10
+N0765,Coquimbo,6
+N0766,Coquimbo,5
+N0767,Coquimbo,1
+N0768,Coquimbo,10
+N0769,Coquimbo,6
+N0770,Coquimbo,10
+N0771,Coquimbo,3
+N0772,Coquimbo,4
+N0773,Coquimbo,4
+N0774,Coquimbo,8
+N0775,Coquimbo,5
+N0776,Coquimbo,5
+N0777,Coquimbo,2
+N0778,Coquimbo,1
+N0779,Coquimbo,1
+N0780,Coquimbo,1
+N0781,Coquimbo,8
+N0782,Coquimbo,3
+N0783,Coquimbo,6
+N0784,Coquimbo,6
+N0785,Coquimbo,2
+N0786,Coquimbo,4
+N0787,Coquimbo,2
+N0788,Coquimbo,11
+N0789,Coquimbo,5
+N0790,Coquimbo,11
+N0791,Coquimbo,5
+N0792,Coquimbo,2
+N0793,Coquimbo,6
+N0794,Coquimbo,3
+N0795,Coquimbo,2
+N0796,Coquimbo,3
+N0797,Coquimbo,1
+N0798,Coquimbo,1
+N0799,Coquimbo,3
+N0800,Coquimbo,6
+N0801,Coquimbo,3
+N0802,Coquimbo,16
+N0803,Coquimbo,7
+N0804,Coquimbo,7
+N0805,Coquimbo,7
+N0806,Coquimbo,7
+N0807,Coquimbo,10
+N0808,Coquimbo,2
+N0809,Coquimbo,4
+N0810,Coquimbo,14
+N0811,Coquimbo,6
+N0812,Coquimbo,7
+N0813,Coquimbo,8
+N0814,Coquimbo,13
+N0815,Coquimbo,9
+N0816,Coquimbo,1
+N0817,Coquimbo,1
+N0818,Coquimbo,2
+N0819,Coquimbo,2
+N0820,Coquimbo,2
+N0821,Coquimbo,2
+N0822,Coquimbo,1
+N0823,Coquimbo,12
+N0824,Coquimbo,4
+N0825,Coquimbo,2
+N0826,Coquimbo,3
+N0827,Coquimbo,1
+N0828,Coquimbo,4
+N0829,Coquimbo,2
+N0830,Coquimbo,3
+N0831,Coquimbo,8
+N0832,Coquimbo,6
+N0833,Coquimbo,2
+N0834,Coquimbo,3
+N0835,Coquimbo,2
+N0836,Coquimbo,2
+N0837,Coquimbo,8
+N0838,Coquimbo,3
+N0839,Coquimbo,7
+N0840,Coquimbo,8
+N0841,Coquimbo,13
+N0842,Coquimbo,12
+N0843,Coquimbo,2
+N0844,Coquimbo,2
+N0845,Coquimbo,3
+N0846,Coquimbo,9
+N0847,Coquimbo,9
+N0848,Coquimbo,10
+N0849,Coquimbo,4
+N0850,Coquimbo,8
+N0851,Coquimbo,9
+N0852,Coquimbo,30
+N0853,Coquimbo,12
+N0854,Coquimbo,14
+N0855,Coquimbo,5
+N0856,Coquimbo,8
+N0857,Coquimbo,7
+N0858,Coquimbo,1
+N0859,Coquimbo,1
+N0860,Coquimbo,5
+N0861,Coquimbo,1
+N0862,Coquimbo,2
+N0863,Coquimbo,1
+N0864,Coquimbo,2
+N0865,Coquimbo,3
+N0866,Coquimbo,1
+N0867,Coquimbo,2
+N0868,Coquimbo,3
+N0869,Coquimbo,2
+N0870,Coquimbo,3
+N0871,Coquimbo,3
+N0872,Coquimbo,4
+N0873,Coquimbo,1
+N0874,Coquimbo,1
+N0875,Coquimbo,2
+N0876,Coquimbo,5
+N0877,Coquimbo,1
+N0878,Coquimbo,1
+N0879,Coquimbo,1
+N0880,Coquimbo,1
+N0881,Coquimbo,7
+N0882,Coquimbo,1
+N0883,Coquimbo,3
+N0884,Coquimbo,4
+N0885,Coquimbo,7
+N0886,Coquimbo,1
+N0887,Coquimbo,7
+N0888,Coquimbo,3
+N0889,Coquimbo,7
+N0890,Coquimbo,15
+N0891,Coquimbo,5
+N0892,Coquimbo,3
+N0893,Coquimbo,2
+N0894,Coquimbo,1
+N0895,Coquimbo,7
+N0896,Coquimbo,1
+N0897,Coquimbo,5
+N0898,Coquimbo,6
+N0899,Coquimbo,16
+N0900,Coquimbo,11
+N0901,Coquimbo,2
+N0902,Coquimbo,17
+N0903,Coquimbo,10
+N0904,Coquimbo,7
+N0905,Coquimbo,4
+N0906,Coquimbo,8
+N0907,Coquimbo,7
+N0908,Coquimbo,8
+N0909,Coquimbo,24
+N0910,Coquimbo,26
+N0911,Coquimbo,10
+N0912,Coquimbo,7
+N0913,Coquimbo,7
+N0914,Coquimbo,11
+N0915,Coquimbo,5
+N0916,Coquimbo,21
+N0917,Coquimbo,1
+N0918,Coquimbo,1
+N0919,Coquimbo,2
+N0920,Coquimbo,1
+N0921,Coquimbo,1
+N0922,Coquimbo,2
+N0923,Coquimbo,9
+N0924,Coquimbo,2
+N0925,Coquimbo,2
+N0926,Coquimbo,2
+N0927,Coquimbo,2
+N0928,Coquimbo,1
+N0929,Coquimbo,3
+N0930,Coquimbo,2
+N0931,Coquimbo,1
+N0932,Coquimbo,2
+N0933,Coquimbo,3
+N0934,Coquimbo,1
+N0935,Coquimbo,1
+N0936,Coquimbo,5
+N0937,Coquimbo,1
+N0938,Coquimbo,2
+N0939,Coquimbo,10
+N0940,Coquimbo,1
+N0941,Coquimbo,1
+N0942,Coquimbo,5
+N0943,Coquimbo,1
+N0944,Coquimbo,2
+N0945,Coquimbo,1
+N0946,Coquimbo,13
+N0947,Coquimbo,11
+N0948,Coquimbo,2
+N0949,Coquimbo,3
+N0950,Coquimbo,3
+N0951,Coquimbo,4
+N0952,Coquimbo,9
+N0953,Coquimbo,5
+N0954,Coquimbo,7
+N0955,Coquimbo,2
+N0956,Coquimbo,1
+N0957,Coquimbo,3
+N0958,Coquimbo,2
+N0959,Coquimbo,1
+N0960,Coquimbo,5
+N0961,Coquimbo,7
+N0962,Coquimbo,8
+N0963,Coquimbo,7
+N0964,Coquimbo,8
+N0965,Coquimbo,10
+N0966,Coquimbo,13
+N0967,Coquimbo,6
+N0968,Coquimbo,29
+N0969,Coquimbo,23
+N0970,Coquimbo,9
+N0971,Coquimbo,16
+N0972,Coquimbo,9
+N0973,Coquimbo,2
+N0974,Coquimbo,5
+N0975,Coquimbo,9
+N0976,Coquimbo,11
+N0977,Coquimbo,13
+N0978,Coquimbo,9
+N0979,Coquimbo,10
+N0980,Coquimbo,7
+N0981,Coquimbo,7
+N0982,Coquimbo,14
+N0983,Coquimbo,9
+N0984,Coquimbo,1
+N0985,Coquimbo,9
+N0986,Coquimbo,7
+N0987,Coquimbo,7
+N0988,Coquimbo,1
+N0989,Coquimbo,1
+N0990,Coquimbo,2
+N0991,Coquimbo,9
+N0992,Coquimbo,4
+N0993,Coquimbo,2
+N0994,Coquimbo,8
+N0995,Coquimbo,3
+N0996,Coquimbo,2
+N0997,Coquimbo,1
+N0998,Coquimbo,3
+N0999,Coquimbo,6
+N1000,Coquimbo,3
+N1001,Coquimbo,2
+N1002,Coquimbo,2
+N1003,Coquimbo,6
+N1004,Coquimbo,2
+N1005,Coquimbo,4
+N1006,Coquimbo,4
+N1007,Coquimbo,3
+N1008,Coquimbo,3
+N1009,Coquimbo,14
+N1010,Coquimbo,5
+N1011,Coquimbo,5
+N1012,Coquimbo,1
+N1013,Coquimbo,8
+N1014,Coquimbo,5
+N1015,Coquimbo,5
+N1016,Coquimbo,2
+N1017,Coquimbo,16
+N1018,Coquimbo,15
+N1019,Coquimbo,9
+N1020,Coquimbo,4
+N1021,Coquimbo,5
+N1022,Coquimbo,5
+N1023,Coquimbo,10
+N1024,Coquimbo,13
+N1025,Coquimbo,3
+N1026,Coquimbo,4
+N1027,Coquimbo,16
+N1028,Coquimbo,3
+N1029,Coquimbo,5
+N1030,Coquimbo,11
+N1031,Coquimbo,22
+N1032,Coquimbo,9
+N1033,Coquimbo,9
+N1034,Coquimbo,13
+N1035,Coquimbo,1
+N1036,Coquimbo,3
+N1037,Coquimbo,1
+N1038,Coquimbo,31
+N1039,Coquimbo,1
+N1040,Coquimbo,4
+N1041,Coquimbo,5
+N1042,Coquimbo,2
+N1043,Coquimbo,7
+N1044,Coquimbo,4
+N1045,Coquimbo,2
+N1046,Coquimbo,9
+N1047,Coquimbo,2
+N1048,Coquimbo,18
+N1049,Coquimbo,3
+N1050,Coquimbo,5
+N1051,Coquimbo,2
+N1052,Coquimbo,1
+N1053,Coquimbo,4
+N1054,Coquimbo,6
+N1055,Coquimbo,2
+N1056,Coquimbo,5
+N1057,Coquimbo,4
+N1058,Coquimbo,1
+N1059,Coquimbo,3
+N1060,Coquimbo,13
+N1061,Coquimbo,17
+N1062,Coquimbo,12
+N1063,Coquimbo,9
+N1064,Coquimbo,12
+N1065,Coquimbo,5
+N1066,Coquimbo,7
+N1067,Coquimbo,13
+N1068,Coquimbo,8
+N1069,Coquimbo,4
+N1070,Coquimbo,1
+N1071,Coquimbo,1
+N1072,Coquimbo,3
+N1073,Coquimbo,1
+N1074,Coquimbo,2
+N1075,Coquimbo,2
+N1076,Coquimbo,1
+N1077,Coquimbo,2
+N1078,Coquimbo,1
+N1079,Coquimbo,2
+N1080,Coquimbo,3
+N1081,Coquimbo,6
+N1082,Coquimbo,3
+N1083,Coquimbo,10
+N1084,Coquimbo,1
+N1085,Coquimbo,1
+N1086,Coquimbo,1
+N1087,Coquimbo,1
+N1088,Coquimbo,2
+N1089,Coquimbo,2
+N1090,Coquimbo,3
+N1091,Coquimbo,1
+N1092,Coquimbo,2
+N1093,Coquimbo,2
+N1094,Coquimbo,1
+N1095,Coquimbo,3
+N1096,Coquimbo,22
+N1097,Coquimbo,2
+N1098,Coquimbo,4
+N1099,Coquimbo,3
+N1100,Coquimbo,20
+N1101,Coquimbo,2
+N1102,Coquimbo,5
+N1103,Coquimbo,13
+N1104,Coquimbo,5
+N1105,Coquimbo,6
+N1106,Coquimbo,23
+N1107,Coquimbo,3
+N1108,Coquimbo,11
+N1109,Coquimbo,6
+N1110,Coquimbo,4
+N1111,Coquimbo,8
+N1112,Coquimbo,5
+N1113,Coquimbo,9
+N1114,Coquimbo,2
+N1115,Coquimbo,5
+N1116,Coquimbo,2
+N1117,Coquimbo,3
+N1118,Coquimbo,4
+N1119,Coquimbo,3
+N1120,Coquimbo,5
+N1121,Coquimbo,3
+N1122,Coquimbo,35
+N1123,Coquimbo,9
+N1124,Coquimbo,3
+N1125,Coquimbo,7
+N1126,Coquimbo,6
+N1127,Coquimbo,14
+N1128,Coquimbo,1
+N1129,Coquimbo,1
+N1130,Coquimbo,2
+N1131,Coquimbo,5
+N1132,Coquimbo,1
+N1133,Coquimbo,15
+N1134,Coquimbo,5
+N1135,Coquimbo,4
+N1136,Coquimbo,2
+N1137,Coquimbo,11
+N1138,Coquimbo,8
+N1139,Coquimbo,1
+N1140,Coquimbo,1
+N1141,Coquimbo,2
+N1142,Coquimbo,3
+N1143,Coquimbo,2
+N1144,Coquimbo,15
+N1145,Coquimbo,1
+N1146,Coquimbo,1
+N1147,Coquimbo,1
+N1148,Coquimbo,1
+N1149,Coquimbo,2
+N1150,Coquimbo,9
+N1151,Coquimbo,2
+N1152,Coquimbo,1
+N1153,Coquimbo,1
+N1154,Coquimbo,1
+N1155,Coquimbo,1
+N1156,Coquimbo,1
+N1157,Coquimbo,2
+N1158,Coquimbo,1
+N1159,Coquimbo,3
+N1160,Coquimbo,1
+N1161,Coquimbo,3
+N1162,Coquimbo,3
+N1163,Coquimbo,2
+N1164,Coquimbo,1
+N1165,Coquimbo,1
+N1166,Coquimbo,2
+N1167,Coquimbo,5
+N1168,Coquimbo,7
+N1169,Coquimbo,9
+N1170,Coquimbo,1
+N1171,Coquimbo,2
+N1172,Coquimbo,5
+N1173,Coquimbo,8
+N1174,Coquimbo,9
+N1175,Coquimbo,7
+N1176,Coquimbo,7
+N1177,Coquimbo,13
+N1178,Coquimbo,8
+N1179,Coquimbo,11
+N1180,Coquimbo,8
+N1181,Coquimbo,4
+N1182,Coquimbo,9
+N1183,Coquimbo,17
+N1184,Coquimbo,4
+N1185,Coquimbo,4
+N1186,Coquimbo,5
+N1187,Coquimbo,6
+N1188,Coquimbo,7
+N1189,Coquimbo,3
+N1190,Coquimbo,17
+N1191,Coquimbo,29
+N1192,Coquimbo,28
+N1193,Coquimbo,2
+N1194,Coquimbo,17
+N1195,Coquimbo,9
+N1196,Coquimbo,34
+N1197,Coquimbo,2
+N1198,Coquimbo,9
+N1199,Coquimbo,4
+N1200,Coquimbo,1
+N1201,Coquimbo,1
+N1202,Coquimbo,6
+N1203,Coquimbo,9
+N1204,Coquimbo,3
+N1205,Coquimbo,8
+N1206,Coquimbo,7
+N1207,Coquimbo,1
+N1208,Coquimbo,4
+N1209,Coquimbo,1
+N1210,Coquimbo,1
+N1211,Coquimbo,1
+N1212,Coquimbo,1
+N1213,Coquimbo,1
+N1214,Coquimbo,1
+N1215,Coquimbo,1
+N1216,Coquimbo,1
+N1217,Coquimbo,1
+N1218,Coquimbo,1
+N1219,Coquimbo,1
+N1220,Coquimbo,1
+N1221,Coquimbo,3
+N1222,Coquimbo,1
+N1223,Coquimbo,1
+N1224,Coquimbo,2
+N1225,Coquimbo,2
+N1226,Coquimbo,2
+N1227,Coquimbo,2
+N1228,Coquimbo,1
+N1229,Coquimbo,3
+N1230,Coquimbo,4
+N1231,Coquimbo,3
+N1232,Coquimbo,3
+N1233,Coquimbo,4
+N1234,Coquimbo,1
+N1235,Coquimbo,1
+N1236,Coquimbo,3
+N1237,Coquimbo,4
+N1238,Coquimbo,4
+N1239,Coquimbo,1
+N1240,Coquimbo,45
+N1241,Coquimbo,6
+N1242,Coquimbo,13
+N1243,Coquimbo,6
+N1244,Coquimbo,3
+N1245,Coquimbo,5
+N1246,Coquimbo,4
+N1247,Coquimbo,3
+N1248,Coquimbo,11
+N1249,Coquimbo,9
+N1250,Coquimbo,12
+N1251,Coquimbo,14
+N1252,Coquimbo,35
+N1253,Coquimbo,6
+N1254,Coquimbo,4
+N1255,Coquimbo,30
+N1256,Coquimbo,13
+N1257,Coquimbo,25
+N1258,Coquimbo,15
+N1259,Coquimbo,3
+N1260,Coquimbo,3
+N1261,Coquimbo,11
+N1262,Coquimbo,22
+N1263,Coquimbo,10
+N1264,Coquimbo,4
+N1265,Coquimbo,7
+N1266,Coquimbo,1
+N1267,Coquimbo,6
+N1268,Coquimbo,2
+N1269,Coquimbo,2
+N1270,Coquimbo,15
+N1271,Coquimbo,1
+N1272,Coquimbo,2
+N1273,Coquimbo,1
+N1274,Coquimbo,1
+N1275,Coquimbo,1
+N1276,Coquimbo,1
+N1277,Coquimbo,1
+N1278,Coquimbo,1
+N1279,Coquimbo,2
+N1280,Coquimbo,1
+N1281,Coquimbo,1
+N1282,Coquimbo,1
+N1283,Coquimbo,1
+N1284,Coquimbo,1
+N1285,Coquimbo,1
+N1286,Coquimbo,1
+N1287,Coquimbo,1
+N1288,Coquimbo,1
+N1289,Coquimbo,1
+N1290,Coquimbo,1
+N1291,Coquimbo,1
+N1292,Coquimbo,1
+N1293,Coquimbo,1
+N1294,Coquimbo,1
+N1295,Coquimbo,1
+N1296,Coquimbo,4
+N1297,Coquimbo,3
+N1298,Coquimbo,2
+N1299,Coquimbo,8
+N1300,Coquimbo,3
+N1301,Coquimbo,1
+N1302,Coquimbo,3
+N1303,Coquimbo,2
+N1304,Coquimbo,6
+N1305,Coquimbo,8
+N1306,Coquimbo,17
+N1307,Coquimbo,8
+N1308,Coquimbo,8
+N1309,Coquimbo,8
+N1310,Coquimbo,2
+N1311,Coquimbo,6
+N1312,Coquimbo,11
+N1313,Coquimbo,2
+N1314,Coquimbo,16
+N1315,Coquimbo,12
+N1316,Coquimbo,4
+N1317,Coquimbo,9
+N1318,Coquimbo,2
+N1319,Coquimbo,19
+N1320,Coquimbo,8
+N1321,Coquimbo,36
+N1322,Coquimbo,6
+N1323,Coquimbo,7
+N1324,Coquimbo,37
+N1325,Coquimbo,29
+N1326,Coquimbo,5
+N1327,Coquimbo,6
+N1328,Coquimbo,1
+N1329,Coquimbo,14
+N1330,Coquimbo,1
+N1331,Coquimbo,2
+N1332,Coquimbo,2
+N1333,Coquimbo,1
+N1334,Coquimbo,1
+N1335,Coquimbo,1
+N1336,Coquimbo,13
+N1337,Coquimbo,7
+N1338,Coquimbo,1
+N1339,Coquimbo,1
+N1340,Coquimbo,1
+N1341,Coquimbo,1
+N1342,Coquimbo,1
+N1343,Coquimbo,4
+N1344,Coquimbo,1
+N1345,Coquimbo,2
+N1346,Coquimbo,1
+N1347,Coquimbo,2
+N1348,Coquimbo,9
+N1349,Coquimbo,1
+N1350,Coquimbo,1
+N1351,Coquimbo,1
+N1352,Coquimbo,2
+N1353,Coquimbo,1
+N1354,Coquimbo,2
+N1355,Coquimbo,1
+N1356,Coquimbo,20
+N1357,Coquimbo,16
+N1358,Coquimbo,3
+N1359,Coquimbo,21
+N1360,Coquimbo,14
+N1361,Coquimbo,7
+N1362,Coquimbo,7
+N1363,Coquimbo,13
+N1364,Coquimbo,4
+N1365,Coquimbo,5
+N1366,Coquimbo,16
+N1367,Coquimbo,7
+N1368,Coquimbo,19
+N1369,Coquimbo,12
+N1370,Coquimbo,15
+N1371,Coquimbo,9
+N1372,Coquimbo,18
+N1373,Coquimbo,9
+N1374,Coquimbo,22
+N1375,Coquimbo,11
+N1376,Coquimbo,14
+N1377,Coquimbo,15
+N1378,Coquimbo,17
+N1379,Coquimbo,2
+N1380,Coquimbo,2
+N1381,Coquimbo,4
+N1382,Coquimbo,2
+N1383,Coquimbo,2
+N1384,Coquimbo,1
+N1385,Coquimbo,1
+N1386,Coquimbo,1
+N1387,Coquimbo,1
+N1388,Coquimbo,1
+N1389,Coquimbo,8
+N1390,Coquimbo,18
+N1391,Coquimbo,4
+N1392,Coquimbo,8
+N1393,Coquimbo,5
+N1394,Coquimbo,8
+N1395,Coquimbo,9
+N1396,Coquimbo,1
+N1397,Coquimbo,8
+N1398,Coquimbo,10
+N1399,Coquimbo,3
+N1400,Coquimbo,4
+N1401,Coquimbo,7
+N1402,Coquimbo,4
+N1403,Coquimbo,4
+N1404,Coquimbo,10
+N1405,Coquimbo,9
+N1406,Coquimbo,2
+N1407,Coquimbo,13
+N1408,Coquimbo,24
+N1409,Coquimbo,7
+N1410,Coquimbo,17
+N1411,Coquimbo,3
+N1412,Coquimbo,5
+N1413,Coquimbo,9
+N1414,Coquimbo,2
+N1415,Coquimbo,18
+N1416,Coquimbo,1
+N1417,Coquimbo,2
+N1418,Coquimbo,5
+N1419,Coquimbo,19
+N1420,Coquimbo,13
+N1421,Coquimbo,6
+N1422,Coquimbo,9
+N1423,Coquimbo,13
+N1424,Coquimbo,3
+N1425,Coquimbo,2
+N1426,Coquimbo,9
+N1427,Coquimbo,3
+N1428,Coquimbo,11
+N1429,Coquimbo,2
+N1430,Coquimbo,7
+N1431,Coquimbo,6
+N1432,Coquimbo,17
+N1433,Coquimbo,3
+N1434,Coquimbo,9
+N1435,Coquimbo,11
+N1436,Coquimbo,2
+N1437,Coquimbo,23
+N1438,Coquimbo,13
+N1439,Coquimbo,8
+N1440,Coquimbo,14
+N1441,Coquimbo,22
+N1442,Coquimbo,8
+N1443,Coquimbo,33
+N1444,Coquimbo,6
+N1445,Coquimbo,9
+N1446,Coquimbo,7
+N1447,Coquimbo,1
+N1448,Coquimbo,10
+N1449,Coquimbo,2
+N1450,Coquimbo,9
+N1451,Coquimbo,12
+N1452,Coquimbo,1
+N1453,Coquimbo,1
+N1454,Coquimbo,1
+N1455,Coquimbo,1
+N1456,Coquimbo,1
+N1457,Coquimbo,1
+N1458,Coquimbo,1
+N1459,Coquimbo,2
+N1460,Coquimbo,4
+N1461,Coquimbo,2
+N1462,Coquimbo,3
+N1463,Coquimbo,3
+N1464,Coquimbo,4
+N1465,Coquimbo,11
+N1466,Coquimbo,1
+N1467,Coquimbo,1
+N1468,Coquimbo,1
+N1469,Coquimbo,2
+N1470,Coquimbo,1
+N1471,Coquimbo,1
+N1472,Coquimbo,1
+N1473,Coquimbo,5
+N1474,Coquimbo,2
+N1475,Coquimbo,2
+N1476,Coquimbo,1
+N1477,Coquimbo,1
+N1478,Coquimbo,1
+N1479,Coquimbo,1
+N1480,Coquimbo,1
+N1481,Coquimbo,1
+N1482,Coquimbo,1
+N1483,Coquimbo,7
+N1484,Coquimbo,4
+N1485,Coquimbo,5
+N1486,Coquimbo,1
+N1487,Coquimbo,3
+N1488,Coquimbo,1
+N1489,Coquimbo,1
+N1490,Coquimbo,7
+N1491,Coquimbo,6
+N1492,Coquimbo,5
+N1493,Coquimbo,6
+N1494,Coquimbo,13
+N1495,Coquimbo,4
+N1496,Coquimbo,6
+N1497,Coquimbo,1
+N1498,Coquimbo,1
+N1499,Coquimbo,1
+N1500,Coquimbo,2
+N1501,Coquimbo,3
+N1502,Coquimbo,1
+N1503,Coquimbo,2
+N1504,Coquimbo,1
+N1505,Coquimbo,1
+N1506,Coquimbo,1
+N1507,Coquimbo,1
+N1508,Coquimbo,1
+N1509,Coquimbo,1
+N1510,Coquimbo,1
+N1511,Coquimbo,2
+N1512,Coquimbo,2
+N1513,Coquimbo,1
+N1514,Coquimbo,1
+N1515,Coquimbo,2
+N1516,Coquimbo,4
+N1517,Coquimbo,1
+N1518,Coquimbo,1
+N1519,Coquimbo,3
+N1520,Coquimbo,1
+N1521,Coquimbo,3
+N1522,Coquimbo,6
+N1523,Coquimbo,2
+N1524,Coquimbo,1
+N1525,Coquimbo,1
+N1526,Coquimbo,1
+N1527,Coquimbo,2
+N1528,Coquimbo,2
+N1529,Coquimbo,1
+N1530,Coquimbo,4
+N1531,Coquimbo,1
+N1532,Coquimbo,7
+N1533,Coquimbo,2
+N1534,Coquimbo,4
+N1535,Coquimbo,1
+N1536,Coquimbo,1
+N1537,Coquimbo,1
+N1538,Coquimbo,1
+N1539,Coquimbo,6
+N1540,Coquimbo,19
+N1541,Coquimbo,1
+N1542,Coquimbo,1
+N1543,Coquimbo,2
+N1544,Coquimbo,1
+N1545,Coquimbo,1
+N1546,Coquimbo,6
+N1547,Coquimbo,1
+N1548,Coquimbo,1
+N1549,Coquimbo,1
+N1550,Coquimbo,1
+N1551,Coquimbo,1
+N1552,Coquimbo,1
+N1553,Coquimbo,1
+N1554,Coquimbo,1
+N1555,Coquimbo,1
+N1556,Coquimbo,1
+N1557,Coquimbo,1
+N1558,Coquimbo,1
+N1559,Coquimbo,1
+N1560,Coquimbo,2
+N1561,Coquimbo,1
+N1562,Coquimbo,3
+N1563,Coquimbo,3
+N1564,Coquimbo,2
+N1565,Coquimbo,3
+N1566,Coquimbo,4
+N1567,Coquimbo,1
+N1568,Coquimbo,1
+N1569,Coquimbo,2
+N1570,Coquimbo,2
+N1571,Coquimbo,1
+N1572,Coquimbo,1
+N1573,Coquimbo,4
+N1574,Coquimbo,4
+N1575,Coquimbo,1
+N1576,Coquimbo,1
+N1577,Coquimbo,1
+N1578,Coquimbo,1
+N1579,Coquimbo,2
+N1580,Coquimbo,1
+N1581,Coquimbo,1
+N1582,Coquimbo,1
+N1583,Coquimbo,5
+N1584,Coquimbo,1
+N1585,Coquimbo,1
+N1586,Coquimbo,3
+N1587,Coquimbo,1
+N1588,Coquimbo,4
+N1589,Coquimbo,1
+N1590,Coquimbo,1
+N1591,Coquimbo,1
+N1592,Coquimbo,1
+N1593,Coquimbo,1
+N1594,Coquimbo,1
+N1595,Coquimbo,1
+N1596,Coquimbo,1
+N1597,Coquimbo,1
+N1598,Coquimbo,1
+N1599,Coquimbo,2
+N1600,Coquimbo,1
+N1601,Coquimbo,1
+N1602,Coquimbo,1
+N1603,Coquimbo,1
+N1604,Coquimbo,1
+N1605,Coquimbo,1
+N1606,Coquimbo,1
+N1607,Coquimbo,1
+N1608,Coquimbo,2
+N1609,Coquimbo,1
+N1610,Coquimbo,1
+N1611,Coquimbo,2
+N1612,Coquimbo,1
+N1613,Coquimbo,1
+N1614,Coquimbo,3
+N1615,Coquimbo,4
+N1616,Coquimbo,1
+N1617,Coquimbo,1
+N1618,Coquimbo,1
+N1619,Coquimbo,1
+N1620,Coquimbo,4
+N1621,Coquimbo,1
+N1622,Coquimbo,7
+N1623,Coquimbo,1
+N1624,Coquimbo,2
+N1625,Coquimbo,1
+N1626,Coquimbo,1
+N1627,Coquimbo,1
+N1628,Coquimbo,1
+N1629,Coquimbo,2
+N1630,Coquimbo,1
+N1631,Coquimbo,1
+N1632,Coquimbo,2
+N1633,Coquimbo,2
+N1634,Coquimbo,3
+N1635,Coquimbo,1
+N1636,Coquimbo,2
+N1637,Coquimbo,2
+N1638,Coquimbo,1
+N1639,Coquimbo,1
+N1640,Coquimbo,3
+N1641,Coquimbo,2
+N1642,Coquimbo,1
+N1643,Coquimbo,1
+N1644,Coquimbo,2
+N1645,Coquimbo,3
+N1646,Coquimbo,2
+N1647,Coquimbo,1
+N1648,Coquimbo,3
+N1649,Coquimbo,1
+N1650,Coquimbo,1
+N1651,Coquimbo,1
+N1652,Coquimbo,1
+N1653,Coquimbo,1
+N1654,Coquimbo,1
+N1655,Coquimbo,1
+N1656,Coquimbo,1
+N1657,Coquimbo,2
+N1658,Coquimbo,1
+N1659,Coquimbo,1
+N1660,Coquimbo,1
+N1661,Coquimbo,1
+N1662,Coquimbo,1
+N1663,Coquimbo,1
+N1664,Coquimbo,1
+N1665,Coquimbo,1
+N1666,Coquimbo,1
+N1667,Coquimbo,1
+N1668,Coquimbo,1
+N1669,Coquimbo,1
+N1670,Coquimbo,1
+N1671,Coquimbo,1
+N1672,Coquimbo,1
+N1673,Coquimbo,1
+N1674,Coquimbo,1
+N1675,Coquimbo,1
+N1676,Coquimbo,1
+N1677,Coquimbo,1
+N1678,Coquimbo,1
+N1679,Coquimbo,3
+N1680,Coquimbo,2
+N1681,Coquimbo,1
+N1682,Coquimbo,3
+N1683,Coquimbo,1
+N1684,Coquimbo,1
+N1685,Coquimbo,1
+N1686,Coquimbo,4
+N1687,Coquimbo,1
+N1688,Coquimbo,1
+N1689,Coquimbo,1
+N1690,Coquimbo,1
+N1691,Coquimbo,1
+N1692,Coquimbo,3
+N1693,Coquimbo,1
+N1694,Coquimbo,1
+N1695,Coquimbo,1
+N1696,Coquimbo,1
+N1697,Coquimbo,1
+N1698,Coquimbo,1
+N1699,Coquimbo,3
+N1700,Coquimbo,5
+N1701,Coquimbo,3
+N1702,Coquimbo,2
+N1703,Coquimbo,2
+N1704,Coquimbo,3
+N1705,Coquimbo,2
+N1706,Coquimbo,1
+N1707,Coquimbo,1
+N1708,Coquimbo,1
+N1709,Coquimbo,1
+N1710,Coquimbo,1
+N1711,Coquimbo,1
+N1712,Coquimbo,2
+N1713,Coquimbo,1
+N1714,Coquimbo,1
+N1715,Coquimbo,1
+N1716,Coquimbo,1
+N1717,Coquimbo,1
+N1718,Coquimbo,1
+N1719,Coquimbo,1
+N1720,Coquimbo,1
+N1721,Coquimbo,1
+N1722,Coquimbo,1
+N1723,Coquimbo,1
+N1724,Coquimbo,1
+N1725,Coquimbo,1
+N1726,Coquimbo,2
+N1727,Coquimbo,1
+N1728,Coquimbo,1
+N1729,Coquimbo,1
+N1730,Coquimbo,1
+N1731,Coquimbo,1
+N1732,Coquimbo,1
+N1733,Coquimbo,21
+N1734,Coquimbo,12
+N1735,Coquimbo,3
+N1736,Coquimbo,2
+N1737,Coquimbo,1
+N1738,Coquimbo,1
+N1739,Coquimbo,11
+N1740,Coquimbo,2
+N1741,Coquimbo,1
+N1742,Coquimbo,4
+N1743,Coquimbo,1
+N1744,Coquimbo,1
+N1745,Coquimbo,1
+N1746,Coquimbo,7
+N1747,Coquimbo,3
+N1748,Coquimbo,5
+N1749,Coquimbo,5
+N1750,Coquimbo,1
+N1751,Coquimbo,2
+N1752,Coquimbo,1
+N1753,Coquimbo,1
+N1754,Coquimbo,2
+N1755,Coquimbo,2
+N1756,Coquimbo,1
+N1757,Coquimbo,3
+N1758,Coquimbo,1
+N1759,Coquimbo,2
+N1760,Coquimbo,1
+N1761,Coquimbo,1
+N1762,Coquimbo,1
+N1763,Coquimbo,1
+N1764,Coquimbo,1
+N1765,Coquimbo,1
+N1766,Coquimbo,1
+N1767,Coquimbo,1
+N1768,Coquimbo,1
+N1769,Coquimbo,1
+N1770,Coquimbo,1
+N1771,Coquimbo,3
+N1772,Coquimbo,1
+N1773,Coquimbo,2
+N1774,Coquimbo,1
+N1775,Coquimbo,2
+N1776,Coquimbo,1
+N1777,Coquimbo,1
+N1778,Coquimbo,1
+N1779,Coquimbo,1
+N1780,Coquimbo,1
+N1781,Coquimbo,1
+N1782,Coquimbo,3
+N1783,Coquimbo,10
+N1784,Coquimbo,6
+N1785,Coquimbo,9
+N1786,Coquimbo,3
+N1787,Coquimbo,4
+N1788,Coquimbo,1
+N1789,Coquimbo,10
+N1790,Coquimbo,1
+N1791,Coquimbo,2
+N1792,Coquimbo,10
+N1793,Coquimbo,10
+N1794,Coquimbo,3
+N1795,Coquimbo,2
+N1796,Coquimbo,5
+N1797,Coquimbo,4
+N1798,Coquimbo,4
+N1799,Coquimbo,3
+N1800,Coquimbo,4
+N1801,Coquimbo,6
+N1802,Coquimbo,10
+N1803,Coquimbo,2
+N1804,Coquimbo,6
+N1805,Coquimbo,5
+N1806,Coquimbo,5
+N1807,Coquimbo,9
+N1808,Coquimbo,2
+N1809,Coquimbo,1
+N1810,Coquimbo,1
+N1811,Coquimbo,3
+N1812,Coquimbo,1
+N1813,Coquimbo,1
+N1814,Coquimbo,1
+N1815,Coquimbo,2
+N1816,Coquimbo,1
+N1817,Coquimbo,1
+N1818,Coquimbo,1
+N1819,Coquimbo,1
+N1820,Coquimbo,1
+N1821,Coquimbo,3
+N1822,Coquimbo,1
+N1823,Coquimbo,2
+N1824,Coquimbo,1
+N1825,Coquimbo,1
+N1826,Coquimbo,1
+N1827,Coquimbo,1
+N1828,Coquimbo,1
+N1829,Coquimbo,2
+N1830,Coquimbo,1
+N1831,Coquimbo,1
+N1832,Coquimbo,1
+N1833,Coquimbo,1
+N1834,Coquimbo,1
+N1835,Coquimbo,1
+N1836,Coquimbo,1
+N1837,Coquimbo,1
+N1838,Coquimbo,3
+N1839,Coquimbo,2
+N1840,Coquimbo,2
+N1841,Coquimbo,1
+N1842,Coquimbo,1
+N1843,Coquimbo,3
+N1844,Coquimbo,3
+N1845,Coquimbo,5
+N1846,Coquimbo,4
+N1847,Coquimbo,9
+N1848,Coquimbo,2
+N1849,Coquimbo,2
+N1850,Coquimbo,6
+N1851,Coquimbo,2
+N1852,Coquimbo,6
+N1853,Coquimbo,7
+N1854,Coquimbo,2
+N1855,Coquimbo,6
+N1856,Coquimbo,2
+N1857,Coquimbo,4
+N1858,Coquimbo,3
+N1859,Coquimbo,7
+N1860,Coquimbo,2
+N1861,Coquimbo,7
+N1862,Coquimbo,3
+N1863,Coquimbo,2
+N1864,Coquimbo,5
+N1865,Coquimbo,5
+N1866,Coquimbo,7
+N1867,Coquimbo,4
+N1868,Coquimbo,3
+N1869,Coquimbo,2
+N1870,Coquimbo,6
+N1871,Coquimbo,1
+N1872,Coquimbo,3
+N1873,Coquimbo,1
+N1874,Coquimbo,1
+N1875,Coquimbo,2
+N1876,Coquimbo,2
+N1877,Coquimbo,2
+N1878,Coquimbo,2
+N1879,Coquimbo,1
+N1880,Coquimbo,1
+N1881,Coquimbo,1
+N1882,Coquimbo,3
+N1883,Coquimbo,1
+N1884,Coquimbo,1
+N1885,Coquimbo,1
+N1886,Coquimbo,1
+N1887,Coquimbo,1
+N1888,Coquimbo,1
+N1889,Coquimbo,1
+N1890,Coquimbo,1
+N1891,Coquimbo,1
+N1892,Coquimbo,1
+N1893,Coquimbo,2
+N1894,Coquimbo,5
+N1895,Coquimbo,1
+N1896,Coquimbo,1
+N1897,Coquimbo,1
+N1898,Coquimbo,1
+N1899,Coquimbo,11
+N1900,Coquimbo,1
+N1901,Coquimbo,1
+N1902,Coquimbo,2
+N1903,Coquimbo,5
+N1904,Coquimbo,11
+N1905,Coquimbo,4
+N1906,Coquimbo,5
+N1907,Coquimbo,4
+N1908,Coquimbo,6
+N1909,Coquimbo,7
+N1910,Coquimbo,8
+N1911,Coquimbo,8
+N1912,Coquimbo,11
+N1913,Coquimbo,6
+N1914,Coquimbo,4
+N1915,Coquimbo,8
+N1916,Coquimbo,1
+N1917,Coquimbo,12
+N1918,Coquimbo,5
+N1919,Coquimbo,9
+N1920,Coquimbo,3
+N1921,Coquimbo,4
+N1922,Coquimbo,7
+N1923,Coquimbo,7
+N1924,Coquimbo,7
+N1925,Coquimbo,5
+N1926,Coquimbo,12
+N1927,Coquimbo,1
+N1928,Coquimbo,2
+N1929,Coquimbo,1
+N1930,Coquimbo,5
+N1931,Coquimbo,1
+N1932,Coquimbo,2
+N1933,Coquimbo,6
+N1934,Coquimbo,1
+N1935,Coquimbo,1
+N1936,Coquimbo,1
+N1937,Coquimbo,1
+N1938,Coquimbo,4
+N1939,Coquimbo,1
+N1940,Coquimbo,2
+N1941,Coquimbo,1
+N1942,Coquimbo,1
+N1943,Coquimbo,1
+N1944,Coquimbo,1
+N1945,Coquimbo,1
+N1946,Coquimbo,1
+N1947,Coquimbo,3
+N1948,Coquimbo,3
+N1949,Coquimbo,2
+N1950,Coquimbo,4
+N1951,Coquimbo,1
+N1952,Coquimbo,2
+N1953,Coquimbo,3
+N1954,Coquimbo,3
+N1955,Coquimbo,2
+N1956,Coquimbo,3
+N1957,Coquimbo,1
+N1958,Coquimbo,7
+N1959,Coquimbo,9
+N1960,Coquimbo,3
+N1961,Coquimbo,3
+N1962,Coquimbo,2
+N1963,Coquimbo,3
+N1964,Coquimbo,7
+N1965,Coquimbo,13
+N1966,Coquimbo,5
+N1967,Coquimbo,8
+N1968,Coquimbo,5
+N1969,Coquimbo,4
+N1970,Coquimbo,7
+N1971,Coquimbo,3
+N1972,Coquimbo,1
+N1973,Coquimbo,3
+N1974,Coquimbo,10
+N1975,Coquimbo,5
+N1976,Coquimbo,4
+N1977,Coquimbo,5
+N1978,Coquimbo,6
+N1979,Coquimbo,2
+N1980,Coquimbo,4
+N1981,Coquimbo,6
+N1982,Coquimbo,8
+N1983,Coquimbo,13
+N1984,Coquimbo,3
+N1985,Coquimbo,6
+N1986,Coquimbo,2
+N1987,Coquimbo,1
+N1988,Coquimbo,3
+N1989,Coquimbo,1
+N1990,Coquimbo,1
+N1991,Coquimbo,1
+N1992,Coquimbo,1
+N1993,Coquimbo,3
+N1994,Coquimbo,1
+N1995,Coquimbo,1
+N1996,Coquimbo,1
+N1997,Coquimbo,1
+N1998,Coquimbo,1
+N1999,Coquimbo,1
+N2000,Coquimbo,1
+N2001,Coquimbo,2
+N2002,Coquimbo,2
+N2003,Coquimbo,1
+N2004,Coquimbo,2
+N2005,Coquimbo,9
+N2006,Coquimbo,2
+N2007,Coquimbo,2
+N2008,Coquimbo,1
+N2009,Coquimbo,1
+N2010,Coquimbo,1
+N2011,Coquimbo,2
+N2012,Coquimbo,1
+N2013,Coquimbo,1
+N2014,Coquimbo,8
+N2015,Coquimbo,3
+N2016,Coquimbo,4
+N2017,Coquimbo,5
+N2018,Coquimbo,5
+N2019,Coquimbo,2
+N2020,Coquimbo,1
+N2021,Coquimbo,9
+N2022,Coquimbo,2
+N2023,Coquimbo,1
+N2024,Coquimbo,3
+N2025,Coquimbo,1
+N2026,Coquimbo,6
+N2027,Coquimbo,5
+N2028,Coquimbo,13
+N2029,Coquimbo,1
+N2030,Coquimbo,15
+N2031,Coquimbo,14
+N2032,Coquimbo,13
+N2033,Coquimbo,11
+N2034,Coquimbo,13
+N2035,Coquimbo,7
+N2036,Coquimbo,6
+N2037,Coquimbo,7
+N2038,Coquimbo,4
+N2039,Coquimbo,10
+N2040,Coquimbo,4
+N2041,Coquimbo,1
+N2042,Coquimbo,5
+N2043,Coquimbo,1
+N2044,Coquimbo,1
+N2045,Coquimbo,5
+N2046,Coquimbo,3
+N2047,Coquimbo,3
+N2048,Coquimbo,1
+N2049,Coquimbo,2
+N2050,Coquimbo,6
+N2051,Coquimbo,5
+N2052,Coquimbo,2
+N2053,Coquimbo,1
+N2054,Coquimbo,5
+N2055,Coquimbo,2
+N2056,Coquimbo,5
+N2057,Coquimbo,4
+N2058,Coquimbo,1
+N2059,Coquimbo,1
+N2060,Coquimbo,2
+N2061,Coquimbo,1
+N2062,Coquimbo,1
+N2063,Coquimbo,1
+N2064,Coquimbo,1
+N2065,Coquimbo,4
+N2066,Coquimbo,2
+N2067,Coquimbo,1
+N2068,Coquimbo,1
+N2069,Coquimbo,1
+N2070,Coquimbo,1
+N2071,Coquimbo,6
+N2072,Coquimbo,2
+N2073,Coquimbo,1
+N2074,Coquimbo,1
+N2075,Coquimbo,5
+N2076,Coquimbo,1
+N2077,Coquimbo,1
+N2078,Coquimbo,1
+N2079,Coquimbo,6
+N2080,Coquimbo,1
+N2081,Coquimbo,1
+N2082,Coquimbo,1
+N2083,Coquimbo,4
+N2084,Coquimbo,1
+N2085,Coquimbo,1
+N2086,Coquimbo,2
+N2087,Coquimbo,2
+N2088,Coquimbo,3
+N2089,Coquimbo,3
+N2090,Coquimbo,4
+N2091,Coquimbo,6
+N2092,Coquimbo,2
+N2093,Coquimbo,5
+N2094,Coquimbo,5
+N2095,Coquimbo,8
+N2096,Coquimbo,5
+N2097,Coquimbo,7
+N2098,Coquimbo,10
+N2099,Coquimbo,6
+N2100,Coquimbo,3
+N2101,Coquimbo,4
+N2102,Coquimbo,5
+N2103,Coquimbo,3
+N2104,Coquimbo,2
+N2105,Coquimbo,2
+N2106,Coquimbo,1
+N2107,Coquimbo,1
+N2108,Coquimbo,1
+N2109,Coquimbo,1
+N2110,Coquimbo,1
+N2111,Coquimbo,1
+N2112,Coquimbo,1
+N2113,Coquimbo,6
+N2114,Coquimbo,2
+N2115,Coquimbo,1
+N2116,Coquimbo,1
+N2117,Coquimbo,1
+N2118,Coquimbo,1
+N2119,Coquimbo,5
+N2120,Coquimbo,1
+N2121,Coquimbo,1
+N2122,Coquimbo,1
+N2123,Coquimbo,3
+N2124,Coquimbo,1
+N2125,Coquimbo,1
+N2126,Coquimbo,1
+N2127,Coquimbo,4
+N2128,Coquimbo,1
+N2129,Coquimbo,1
+N2130,Coquimbo,1
+N2131,Coquimbo,1
+N2132,Coquimbo,1
+N2133,Coquimbo,3
+N2134,Coquimbo,2
+N2135,Coquimbo,1
+N2136,Coquimbo,1
+N2137,Coquimbo,1
+N2138,Coquimbo,1
+N2139,Coquimbo,2
+N2140,Coquimbo,1
+N2141,Coquimbo,1
+N2142,Coquimbo,1
+N2143,Coquimbo,4
+N2144,Coquimbo,5
+N2145,Coquimbo,2
+N2146,Coquimbo,4
+N2147,Coquimbo,6
+N2148,Coquimbo,5
+N2149,Coquimbo,1
+N2150,Coquimbo,3
+N2151,Coquimbo,14
+N2152,Coquimbo,10
+N2153,Coquimbo,14
+N2154,Coquimbo,3
+N2155,Coquimbo,7
+N2156,Coquimbo,4
+N2157,Coquimbo,5
+N2158,Coquimbo,1
+N2159,Coquimbo,6
+N2160,Coquimbo,3
+N2161,La Serena,1
+N2162,La Serena,1
+N2163,Coquimbo,1
+N2164,La Serena,3
+N2165,La Serena,1
+N2166,Coquimbo,2
+N2167,Coquimbo,2
+N2168,Coquimbo,4
+N2169,Coquimbo,2
+N2170,Coquimbo,1
+N2171,Coquimbo,4
+N2172,Coquimbo,1
+N2173,Coquimbo,1
+N2174,Coquimbo,1
+N2175,Coquimbo,1
+N2176,Coquimbo,1
+N2177,Coquimbo,1
+N2178,Coquimbo,2
+N2179,Coquimbo,5
+N2180,Coquimbo,1
+N2181,Coquimbo,2
+N2182,Coquimbo,2
+N2183,Coquimbo,5
+N2184,Coquimbo,1
+N2185,Coquimbo,1
+N2186,Coquimbo,2
+N2187,Coquimbo,3
+N2188,Coquimbo,1
+N2189,Coquimbo,2
+N2190,Coquimbo,1
+N2191,Coquimbo,2
+N2192,Coquimbo,1
+N2193,Coquimbo,1
+N2194,Coquimbo,1
+N2195,Coquimbo,2
+N2196,Coquimbo,2
+N2197,Coquimbo,2
+N2198,Coquimbo,4
+N2199,Coquimbo,1
+N2200,Coquimbo,1
+N2201,Coquimbo,1
+N2202,Coquimbo,1
+N2203,Coquimbo,1
+N2204,Coquimbo,1
+N2205,Coquimbo,1
+N2206,Coquimbo,1
+N2207,Coquimbo,1
+N2208,Coquimbo,2
+N2209,Coquimbo,1
+N2210,Coquimbo,2
+N2211,Coquimbo,2
+N2212,Coquimbo,2
+N2213,Coquimbo,2
+N2214,Coquimbo,1
+N2215,Coquimbo,1
+N2216,Coquimbo,1
+N2217,Coquimbo,1
+N2218,Coquimbo,1
+N2219,Coquimbo,1
+N2220,Coquimbo,1
+N2221,Coquimbo,1
+N2222,Coquimbo,1
+N2223,Coquimbo,2
+N2224,La Serena,23
+N2225,Coquimbo,5
+N2226,Coquimbo,7
+N2227,Coquimbo,4
+N2228,Coquimbo,5
+N2229,Coquimbo,1
+N2230,Coquimbo,1
+N2231,Coquimbo,3
+N2232,Coquimbo,1
+N2233,Coquimbo,1
+N2234,Coquimbo,2
+N2235,Coquimbo,3
+N2236,Coquimbo,4
+N2237,Coquimbo,1
+N2238,Coquimbo,1
+N2239,Coquimbo,1
+N2240,Coquimbo,1
+N2241,Coquimbo,2
+N2242,La Serena,1
+N2243,La Serena,3
+N2244,La Serena,1
+N2245,La Serena,1
+N2246,La Serena,1
+N2247,La Serena,1
+N2248,La Serena,1
+N2249,La Serena,1
+N2250,Coquimbo,1
+N2251,Coquimbo,3
+N2252,Coquimbo,10
+N2253,Coquimbo,2
+N2254,Coquimbo,3
+N2255,Coquimbo,2
+N2256,Coquimbo,2
+N2257,Coquimbo,2
+N2258,Coquimbo,12
+N2259,Coquimbo,4
+N2260,Coquimbo,1
+N2261,Coquimbo,3
+N2262,Coquimbo,2
+N2263,Coquimbo,2
+N2264,Coquimbo,1
+N2265,Coquimbo,1
+N2266,Coquimbo,1
+N2267,Coquimbo,1
+N2268,Coquimbo,1
+N2269,La Serena,1
+N2270,La Serena,1
+N2271,La Serena,1
+N2272,La Serena,1
+N2273,La Serena,1
+N2274,La Serena,1
+N2275,La Serena,1
+N2276,La Serena,1
+N2277,La Serena,1
+N2278,La Serena,1
+N2279,La Serena,1
+N2280,La Serena,1
+N2281,La Serena,1
+N2282,Coquimbo,5
+N2283,Coquimbo,2
+N2284,Coquimbo,5
+N2285,Coquimbo,4
+N2286,Coquimbo,6
+N2287,Coquimbo,5
+N2288,Coquimbo,4
+N2289,Coquimbo,8
+N2290,Coquimbo,7
+N2291,Coquimbo,1
+N2292,Coquimbo,2
+N2293,Coquimbo,6
+N2294,Coquimbo,2
+N2295,Coquimbo,1
+N2296,La Serena,1
+N2297,La Serena,2
+N2298,La Serena,1
+N2299,La Serena,1
+N2300,La Serena,1
+N2301,La Serena,1
+N2302,La Serena,1
+N2303,La Serena,1
+N2304,La Serena,1
+N2305,La Serena,1
+N2306,La Serena,1
+N2307,La Serena,1
+N2308,La Serena,1
+N2309,Coquimbo,8
+N2310,Coquimbo,8
+N2311,Coquimbo,3
+N2312,Coquimbo,6
+N2313,Coquimbo,4
+N2314,Coquimbo,1
+N2315,Coquimbo,8
+N2316,Coquimbo,5
+N2317,Coquimbo,2
+N2318,Coquimbo,1
+N2319,Coquimbo,6
+N2320,Coquimbo,1
+N2321,Coquimbo,5
+N2322,Coquimbo,10
+N2323,La Serena,1
+N2324,La Serena,1
+N2325,La Serena,1
+N2326,La Serena,1
+N2327,La Serena,1
+N2328,La Serena,1
+N2329,La Serena,1
+N2330,La Serena,1
+N2331,La Serena,1
+N2332,La Serena,1
+N2333,La Serena,1
+N2334,La Serena,1
+N2335,La Serena,1
+N2336,La Serena,1
+N2337,La Serena,1
+N2338,La Serena,1
+N2339,La Serena,1
+N2340,La Serena,1
+N2341,Coquimbo,4
+N2342,Coquimbo,3
+N2343,Coquimbo,17
+N2344,Coquimbo,3
+N2345,Coquimbo,1
+N2346,Coquimbo,3
+N2347,Coquimbo,2
+N2348,La Serena,1
+N2349,La Serena,1
+N2350,La Serena,1
+N2351,La Serena,1
+N2352,La Serena,1
+N2353,La Serena,1
+N2354,La Serena,1
+N2355,La Serena,1
+N2356,La Serena,2
+N2357,La Serena,1
+N2358,La Serena,1
+N2359,La Serena,1
+N2360,La Serena,1
+N2361,La Serena,1
+N2362,La Serena,1
+N2363,La Serena,1
+N2364,La Serena,1
+N2365,La Serena,1
+N2366,La Serena,1
+N2367,La Serena,1
+N2368,La Serena,1
+N2369,La Serena,2
+N2370,La Serena,4
+N2371,La Serena,5
+N2372,La Serena,3
+N2373,La Serena,3
+N2374,La Serena,2
+N2375,La Serena,4
+N2376,La Serena,1
+N2377,La Serena,1
+N2378,La Serena,1
+N2379,La Serena,1
+N2380,La Serena,1
+N2381,La Serena,1
+N2382,La Serena,2
+N2383,La Serena,1
+N2384,La Serena,1
+N2385,La Serena,1
+N2386,La Serena,1
+N2387,La Serena,1
+N2388,La Serena,1
+N2389,La Serena,1
+N2390,La Serena,1
+N2391,La Serena,1
+N2392,La Serena,1
+N2393,La Serena,1
+N2394,La Serena,1
+N2395,La Serena,1
+N2396,Coquimbo,7
+N2397,Coquimbo,3
+N2398,Coquimbo,13
+N2399,Coquimbo,3
+N2400,Coquimbo,14
+N2401,Coquimbo,1
+N2402,Coquimbo,2
+N2403,Coquimbo,5
+N2404,Coquimbo,4
+N2405,Coquimbo,5
+N2406,Coquimbo,4
+N2407,Coquimbo,3
+N2408,Coquimbo,11
+N2409,Coquimbo,12
+N2410,Coquimbo,6
+N2411,Coquimbo,7
+N2412,Coquimbo,9
+N2413,Coquimbo,12
+N2414,Coquimbo,15
+N2415,Coquimbo,9
+N2416,Coquimbo,3
+N2417,Coquimbo,5
+N2418,Coquimbo,5
+N2419,Coquimbo,4
+N2420,Coquimbo,11
+N2421,Coquimbo,5
+N2422,Coquimbo,5
+N2423,Coquimbo,8
+N2424,Coquimbo,5
+N2425,Coquimbo,1
+N2426,Coquimbo,6
+N2427,Coquimbo,5
+N2428,Coquimbo,3
+N2429,Coquimbo,10
+N2430,Coquimbo,7
+N2431,Coquimbo,3
+N2432,Coquimbo,5
+N2433,Coquimbo,13
+N2434,Coquimbo,7
+N2435,Coquimbo,11
+N2436,Coquimbo,9
+N2437,Coquimbo,2
+N2438,Coquimbo,1
+N2439,Coquimbo,4
+N2440,Coquimbo,3
+N2441,Coquimbo,10
+N2442,Coquimbo,1
+N2443,Coquimbo,7
+N2444,Coquimbo,6
+N2445,Coquimbo,1
+N2446,Coquimbo,7
+N2447,Coquimbo,12
+N2448,Coquimbo,3
+N2449,Coquimbo,2
+N2450,Coquimbo,13
+N2451,Coquimbo,8
+N2452,Coquimbo,5
+N2453,Coquimbo,3
+N2454,Coquimbo,5
+N2455,Coquimbo,1
+N2456,Coquimbo,8
+N2457,Coquimbo,2
+N2458,Coquimbo,2
+N2459,Coquimbo,3
+N2460,Coquimbo,6
+N2461,Coquimbo,4
+N2462,Coquimbo,7
+N2463,Coquimbo,3
+N2464,Coquimbo,21
+N2465,Coquimbo,8
+N2466,Coquimbo,6
+N2467,Coquimbo,4
+N2468,Coquimbo,6
+N2469,Coquimbo,8
+N2470,Coquimbo,4
+N2471,Coquimbo,3
+N2472,Coquimbo,5
+N2473,Coquimbo,3
+N2474,Coquimbo,7
+N2475,Coquimbo,9
+N2476,Coquimbo,1
+N2477,Coquimbo,1
+N2478,Coquimbo,2
+N2479,Coquimbo,4
+N2480,Coquimbo,10
+N2481,Coquimbo,4
+N2482,Coquimbo,9
+N2483,Coquimbo,8
+N2484,Coquimbo,11
+N2485,Coquimbo,7
+N2486,Coquimbo,2
+N2487,Coquimbo,7
+N2488,Coquimbo,7
+N2489,Coquimbo,7
+N2490,Coquimbo,2
+N2491,Coquimbo,5
+N2492,Coquimbo,2
+N2493,Coquimbo,2
+N2494,Coquimbo,10
+N2495,Coquimbo,3
+N2496,Coquimbo,3
+N2497,Coquimbo,3
+N2498,Coquimbo,6
+N2499,Coquimbo,3
+N2500,Coquimbo,1
+N2501,Coquimbo,2
+N2502,Coquimbo,4
+N2503,Coquimbo,2
+N2504,Coquimbo,1
+N2505,Coquimbo,1
+N2506,Coquimbo,9
+N2507,Coquimbo,1
+N2508,Coquimbo,1
+N2509,Coquimbo,1
+N2510,Coquimbo,1
+N2511,Coquimbo,3
+N2512,Coquimbo,1
+N2513,Coquimbo,2
+N2514,Coquimbo,1
+N2515,Coquimbo,2
+N2516,Coquimbo,1
+N2517,Coquimbo,1
+N2518,Coquimbo,5
+N2519,Coquimbo,6
+N2520,Coquimbo,2
+N2521,Coquimbo,1
+N2522,Coquimbo,1
+N2523,Coquimbo,3
+N2524,Coquimbo,5
+N2525,Coquimbo,4
+N2526,Coquimbo,5
+N2527,Coquimbo,3
+N2528,Coquimbo,10
+N2529,Coquimbo,4
+N2530,Coquimbo,2
+N2531,Coquimbo,2
+N2532,Coquimbo,1
+N2533,Coquimbo,1
+N2534,La Serena,1
+N2535,Coquimbo,1
+N2536,Coquimbo,2
+N2537,Coquimbo,1
+N2538,Coquimbo,1
+N2539,Coquimbo,1
+N2540,Coquimbo,2
+N2541,Coquimbo,1
+N2542,Coquimbo,2
+N2543,La Serena,6
+N2544,Coquimbo,11
+N2545,Coquimbo,5
+N2546,La Serena,1
+N2547,Coquimbo,7
+N2548,Coquimbo,11
+N2549,La Serena,2
+N2550,La Serena,4
+N2551,Coquimbo,8
+N2552,La Serena,4
+N2553,Coquimbo,4
+N2554,La Serena,2
+N2555,La Serena,1
+N2556,La Serena,1
+N2557,La Serena,1
+N2558,La Serena,2
+N2559,La Serena,2
+N2560,La Serena,4
+N2561,La Serena,2
+N2562,La Serena,1
+N2563,La Serena,1
+N2564,La Serena,1
+N2565,La Serena,1
+N2566,La Serena,1
+N2567,La Serena,1
+N2568,La Serena,2
+N2569,La Serena,1
+N2570,La Serena,4
+N2571,La Serena,3
+N2572,La Serena,1
+N2573,La Serena,1
+N2574,La Serena,2
+N2575,La Serena,1
+N2576,La Serena,1
+N2577,Coquimbo,6
+N2578,Coquimbo,1
+N2579,Coquimbo,3
+N2580,Coquimbo,6
+N2581,Coquimbo,2
+N2582,Coquimbo,3
+N2583,Coquimbo,2
+N2584,La Serena,1
+N2585,La Serena,1
+N2586,La Serena,1
+N2587,La Serena,1
+N2588,La Serena,34
+N2589,La Serena,1
+N2590,Coquimbo,4
+N2591,La Serena,1
+N2592,La Serena,1
+N2593,La Serena,1
+N2594,La Serena,4
+N2595,La Serena,2
+N2596,La Serena,1
+N2597,La Serena,4
+N2598,La Serena,2
+N2599,La Serena,7
+N2600,La Serena,1
+N2601,La Serena,1
+N2602,La Serena,7
+N2603,La Serena,1
+N2604,La Serena,9
+N2605,La Serena,2
+N2606,La Serena,5
+N2607,La Serena,1
+N2608,La Serena,18
+N2609,La Serena,3
+N2610,La Serena,3
+N2611,La Serena,5
+N2612,La Serena,2
+N2613,La Serena,1
+N2614,La Serena,1
+N2615,La Serena,1
+N2616,La Serena,2
+N2617,La Serena,1
+N2618,La Serena,7
+N2619,La Serena,3
+N2620,La Serena,3
+N2621,La Serena,1
+N2622,La Serena,1
+N2623,La Serena,2
+N2624,Coquimbo,6
+N2625,Coquimbo,1
+N2626,Coquimbo,1
+N2627,Coquimbo,10
+N2628,Coquimbo,1
+N2629,Coquimbo,3
+N2630,Coquimbo,3
+N2631,Coquimbo,1
+N2632,La Serena,2
+N2633,La Serena,1
+N2634,La Serena,1
+N2635,La Serena,1
+N2636,La Serena,1
+N2637,La Serena,2
+N2638,La Serena,1
+N2639,La Serena,1
+N2640,La Serena,1
+N2641,La Serena,1
+N2642,La Serena,1
+N2643,La Serena,4
+N2644,La Serena,1
+N2645,La Serena,4
+N2646,La Serena,2
+N2647,La Serena,5
+N2648,La Serena,5
+N2649,La Serena,2
+N2650,La Serena,2
+N2651,La Serena,10
+N2652,La Serena,11
+N2653,La Serena,8
+N2654,La Serena,6
+N2655,La Serena,1
+N2656,La Serena,23
+N2657,La Serena,11
+N2658,La Serena,6
+N2659,La Serena,9
+N2660,La Serena,4
+N2661,La Serena,6
+N2662,La Serena,1
+N2663,La Serena,5
+N2664,La Serena,3
+N2665,La Serena,3
+N2666,La Serena,1
+N2667,La Serena,4
+N2668,La Serena,2
+N2669,La Serena,5
+N2670,La Serena,4
+N2671,La Serena,1
+N2672,La Serena,3
+N2673,La Serena,6
+N2674,La Serena,5
+N2675,La Serena,2
+N2676,Coquimbo,2
+N2677,Coquimbo,9
+N2678,La Serena,2
+N2679,La Serena,7
+N2680,La Serena,2
+N2681,La Serena,1
+N2682,La Serena,2
+N2683,La Serena,1
+N2684,La Serena,1
+N2685,La Serena,1
+N2686,La Serena,1
+N2687,La Serena,1
+N2688,La Serena,1
+N2689,La Serena,3
+N2690,La Serena,2
+N2691,La Serena,8
+N2692,La Serena,3
+N2693,La Serena,2
+N2694,La Serena,5
+N2695,La Serena,2
+N2696,La Serena,2
+N2697,La Serena,5
+N2698,La Serena,6
+N2699,La Serena,4
+N2700,La Serena,4
+N2701,La Serena,5
+N2702,La Serena,1
+N2703,La Serena,8
+N2704,La Serena,1
+N2705,La Serena,2
+N2706,La Serena,6
+N2707,La Serena,2
+N2708,La Serena,4
+N2709,La Serena,5
+N2710,La Serena,4
+N2711,La Serena,3
+N2712,La Serena,7
+N2713,La Serena,2
+N2714,La Serena,2
+N2715,La Serena,2
+N2716,La Serena,1
+N2717,La Serena,3
+N2718,La Serena,7
+N2719,La Serena,2
+N2720,La Serena,1
+N2721,La Serena,1
+N2722,La Serena,1
+N2723,La Serena,3
+N2724,La Serena,2
+N2725,La Serena,1
+N2726,La Serena,6
+N2727,La Serena,1
+N2728,La Serena,1
+N2729,La Serena,1
+N2730,La Serena,1
+N2731,La Serena,1
+N2732,La Serena,1
+N2733,La Serena,4
+N2734,La Serena,2
+N2735,La Serena,2
+N2736,La Serena,2
+N2737,La Serena,1
+N2738,La Serena,3
+N2739,La Serena,6
+N2740,La Serena,3
+N2741,La Serena,8
+N2742,La Serena,3
+N2743,La Serena,6
+N2744,La Serena,7
+N2745,La Serena,2
+N2746,La Serena,10
+N2747,La Serena,2
+N2748,La Serena,9
+N2749,La Serena,6
+N2750,La Serena,1
+N2751,La Serena,8
+N2752,La Serena,5
+N2753,La Serena,4
+N2754,La Serena,2
+N2755,La Serena,19
+N2756,La Serena,1
+N2757,La Serena,6
+N2758,La Serena,11
+N2759,La Serena,1
+N2760,La Serena,3
+N2761,La Serena,3
+N2762,La Serena,1
+N2763,La Serena,1
+N2764,La Serena,1
+N2765,La Serena,1
+N2766,La Serena,1
+N2767,La Serena,3
+N2768,La Serena,1
+N2769,La Serena,1
+N2770,La Serena,1
+N2771,La Serena,1
+N2772,La Serena,1
+N2773,La Serena,14
+N2774,La Serena,1
+N2775,La Serena,4
+N2776,La Serena,4
+N2777,La Serena,1
+N2778,La Serena,3
+N2779,La Serena,3
+N2780,La Serena,1
+N2781,La Serena,15
+N2782,La Serena,8
+N2783,La Serena,2
+N2784,La Serena,2
+N2785,La Serena,5
+N2786,La Serena,2
+N2787,La Serena,2
+N2788,La Serena,3
+N2789,La Serena,10
+N2790,La Serena,12
+N2791,La Serena,1
+N2792,La Serena,9
+N2793,La Serena,2
+N2794,La Serena,4
+N2795,La Serena,7
+N2796,La Serena,7
+N2797,La Serena,2
+N2798,La Serena,5
+N2799,La Serena,4
+N2800,La Serena,3
+N2801,La Serena,3
+N2802,La Serena,1
+N2803,La Serena,8
+N2804,La Serena,1
+N2805,La Serena,4
+N2806,La Serena,2
+N2807,La Serena,1
+N2808,La Serena,1
+N2809,La Serena,1
+N2810,La Serena,4
+N2811,La Serena,3
+N2812,La Serena,2
+N2813,La Serena,3
+N2814,La Serena,1
+N2815,La Serena,1
+N2816,La Serena,3
+N2817,La Serena,2
+N2818,La Serena,5
+N2819,La Serena,1
+N2820,La Serena,11
+N2821,La Serena,22
+N2822,La Serena,2
+N2823,La Serena,7
+N2824,La Serena,3
+N2825,La Serena,7
+N2826,La Serena,10
+N2827,La Serena,11
+N2828,La Serena,4
+N2829,La Serena,14
+N2830,La Serena,10
+N2831,La Serena,14
+N2832,La Serena,10
+N2833,La Serena,4
+N2834,La Serena,4
+N2835,La Serena,9
+N2836,La Serena,11
+N2837,La Serena,3
+N2838,La Serena,6
+N2839,La Serena,4
+N2840,La Serena,14
+N2841,La Serena,3
+N2842,La Serena,1
+N2843,La Serena,1
+N2844,La Serena,2
+N2845,La Serena,1
+N2846,La Serena,1
+N2847,La Serena,1
+N2848,La Serena,1
+N2849,La Serena,1
+N2850,La Serena,1
+N2851,La Serena,13
+N2852,La Serena,1
+N2853,La Serena,5
+N2854,La Serena,10
+N2855,La Serena,4
+N2856,La Serena,4
+N2857,La Serena,2
+N2858,La Serena,11
+N2859,La Serena,4
+N2860,La Serena,6
+N2861,La Serena,1
+N2862,La Serena,18
+N2863,La Serena,1
+N2864,La Serena,3
+N2865,La Serena,10
+N2866,La Serena,44
+N2867,La Serena,4
+N2868,La Serena,9
+N2869,La Serena,9
+N2870,La Serena,5
+N2871,La Serena,20
+N2872,La Serena,9
+N2873,La Serena,15
+N2874,La Serena,5
+N2875,La Serena,1
+N2876,La Serena,3
+N2877,La Serena,2
+N2878,La Serena,6
+N2879,La Serena,9
+N2880,La Serena,4
+N2881,La Serena,13
+N2882,La Serena,3
+N2883,La Serena,1
+N2884,La Serena,1
+N2885,La Serena,1
+N2886,La Serena,1
+N2887,La Serena,2
+N2888,La Serena,2
+N2889,La Serena,3
+N2890,La Serena,15
+N2891,La Serena,10
+N2892,La Serena,20
+N2893,La Serena,4
+N2894,La Serena,6
+N2895,La Serena,19
+N2896,La Serena,1
+N2897,La Serena,6
+N2898,La Serena,3
+N2899,La Serena,1
+N2900,La Serena,5
+N2901,La Serena,4
+N2902,La Serena,5
+N2903,La Serena,1
+N2904,La Serena,12
+N2905,La Serena,3
+N2906,La Serena,12
+N2907,La Serena,5
+N2908,La Serena,14
+N2909,La Serena,10
+N2910,Coquimbo,16
+N2911,Coquimbo,3
+N2912,La Serena,8
+N2913,La Serena,1
+N2914,La Serena,2
+N2915,La Serena,2
+N2916,La Serena,1
+N2917,La Serena,1
+N2918,La Serena,1
+N2919,La Serena,1
+N2920,La Serena,1
+N2921,La Serena,1
+N2922,La Serena,1
+N2923,La Serena,1
+N2924,La Serena,7
+N2925,La Serena,5
+N2926,La Serena,4
+N2927,La Serena,14
+N2928,La Serena,5
+N2929,La Serena,14
+N2930,La Serena,6
+N2931,La Serena,3
+N2932,La Serena,13
+N2933,La Serena,7
+N2934,La Serena,6
+N2935,La Serena,6
+N2936,La Serena,5
+N2937,La Serena,13
+N2938,La Serena,3
+N2939,La Serena,10
+N2940,La Serena,3
+N2941,La Serena,1
+N2942,La Serena,2
+N2943,La Serena,2
+N2944,La Serena,1
+N2945,La Serena,1
+N2946,La Serena,1
+N2947,La Serena,1
+N2948,La Serena,1
+N2949,La Serena,1
+N2950,La Serena,1
+N2951,La Serena,1
+N2952,La Serena,2
+N2953,La Serena,4
+N2954,La Serena,5
+N2955,La Serena,3
+N2956,La Serena,1
+N2957,La Serena,5
+N2958,La Serena,8
+N2959,La Serena,4
+N2960,La Serena,2
+N2961,La Serena,8
+N2962,La Serena,5
+N2963,La Serena,4
+N2964,La Serena,10
+N2965,La Serena,4
+N2966,La Serena,4
+N2967,La Serena,6
+N2968,La Serena,4
+N2969,La Serena,3
+N2970,La Serena,1
+N2971,La Serena,1
+N2972,La Serena,3
+N2973,La Serena,1
+N2974,La Serena,3
+N2975,La Serena,2
+N2976,La Serena,3
+N2977,La Serena,4
+N2978,La Serena,1
+N2979,La Serena,1
+N2980,La Serena,1
+N2981,La Serena,1
+N2982,La Serena,1
+N2983,La Serena,1
+N2984,La Serena,1
+N2985,La Serena,5
+N2986,La Serena,9
+N2987,La Serena,8
+N2988,La Serena,3
+N2989,La Serena,3
+N2990,La Serena,20
+N2991,La Serena,2
+N2992,La Serena,5
+N2993,La Serena,7
+N2994,La Serena,6
+N2995,La Serena,3
+N2996,La Serena,2
+N2997,La Serena,1
+N2998,La Serena,1
+N2999,La Serena,1
+N3000,La Serena,1
+N3001,La Serena,1
+N3002,La Serena,1
+N3003,La Serena,1
+N3004,La Serena,1
+N3005,La Serena,2
+N3006,La Serena,1
+N3007,La Serena,5
+N3008,La Serena,3
+N3009,La Serena,3
+N3010,La Serena,3
+N3011,La Serena,1
+N3012,La Serena,2
+N3013,La Serena,3
+N3014,La Serena,3
+N3015,La Serena,5
+N3016,La Serena,6
+N3017,La Serena,4
+N3018,La Serena,7
+N3019,La Serena,6
+N3020,La Serena,5
+N3021,La Serena,12
+N3022,La Serena,13
+N3023,La Serena,2
+N3024,La Serena,8
+N3025,La Serena,1
+N3026,La Serena,1
+N3027,La Serena,2
+N3028,La Serena,1
+N3029,La Serena,1
+N3030,La Serena,1
+N3031,La Serena,1
+N3032,La Serena,1
+N3033,La Serena,1
+N3034,La Serena,1
+N3035,La Serena,5
+N3036,La Serena,1
+N3037,La Serena,26
+N3038,La Serena,5
+N3039,La Serena,6
+N3040,La Serena,3
+N3041,La Serena,19
+N3042,La Serena,8
+N3043,La Serena,17
+N3044,La Serena,9
+N3045,La Serena,7
+N3046,La Serena,6
+N3047,La Serena,10
+N3048,La Serena,4
+N3049,La Serena,18
+N3050,La Serena,8
+N3051,La Serena,2
+N3052,La Serena,4
+N3053,La Serena,2
+N3054,La Serena,3
+N3055,La Serena,1
+N3056,La Serena,1
+N3057,La Serena,1
+N3058,La Serena,2
+N3059,La Serena,2
+N3060,La Serena,1
+N3061,La Serena,1
+N3062,La Serena,1
+N3063,La Serena,2
+N3064,La Serena,2
+N3065,La Serena,1
+N3066,La Serena,1
+N3067,La Serena,1
+N3068,La Serena,10
+N3069,La Serena,1
+N3070,La Serena,3
+N3071,La Serena,5
+N3072,La Serena,4
+N3073,La Serena,2
+N3074,La Serena,13
+N3075,La Serena,14
+N3076,La Serena,33
+N3077,La Serena,5
+N3078,La Serena,5
+N3079,La Serena,5
+N3080,La Serena,38
+N3081,La Serena,7
+N3082,La Serena,5
+N3083,La Serena,1
+N3084,La Serena,18
+N3085,La Serena,2
+N3086,La Serena,6
+N3087,La Serena,1
+N3088,La Serena,1
+N3089,La Serena,1
+N3090,La Serena,1
+N3091,La Serena,1
+N3092,La Serena,1
+N3093,La Serena,1
+N3094,La Serena,28
+N3095,La Serena,1
+N3096,La Serena,12
+N3097,La Serena,2
+N3098,La Serena,21
+N3099,La Serena,2
+N3100,La Serena,6
+N3101,La Serena,16
+N3102,La Serena,16
+N3103,La Serena,3
+N3104,La Serena,1
+N3105,La Serena,2
+N3106,La Serena,1
+N3107,La Serena,1
+N3108,La Serena,1
+N3109,La Serena,1
+N3110,La Serena,1
+N3111,La Serena,1
+N3112,La Serena,1
+N3113,La Serena,1
+N3114,La Serena,1
+N3115,La Serena,4
+N3116,La Serena,1
+N3117,La Serena,3
+N3118,La Serena,1
+N3119,La Serena,1
+N3120,La Serena,2
+N3121,La Serena,11
+N3122,La Serena,7
+N3123,La Serena,3
+N3124,La Serena,4
+N3125,La Serena,5
+N3126,La Serena,2
+N3127,La Serena,18
+N3128,La Serena,10
+N3129,La Serena,6
+N3130,La Serena,14
+N3131,La Serena,1
+N3132,La Serena,3
+N3133,La Serena,2
+N3134,La Serena,14
+N3135,La Serena,2
+N3136,La Serena,5
+N3137,La Serena,2
+N3138,La Serena,2
+N3139,La Serena,1
+N3140,La Serena,3
+N3141,La Serena,1
+N3142,La Serena,1
+N3143,La Serena,2
+N3144,La Serena,3
+N3145,La Serena,1
+N3146,La Serena,1
+N3147,La Serena,1
+N3148,La Serena,2
+N3149,La Serena,2
+N3150,La Serena,2
+N3151,La Serena,3
+N3152,La Serena,3
+N3153,La Serena,1
+N3154,La Serena,1
+N3155,La Serena,15
+N3156,La Serena,14
+N3157,La Serena,5
+N3158,La Serena,1
+N3159,La Serena,6
+N3160,La Serena,1
+N3161,La Serena,1
+N3162,La Serena,3
+N3163,La Serena,2
+N3164,La Serena,7
+N3165,La Serena,5
+N3166,La Serena,10
+N3167,La Serena,2
+N3168,La Serena,7
+N3169,La Serena,23
+N3170,La Serena,16
+N3171,La Serena,1
+N3172,La Serena,1
+N3173,La Serena,1
+N3174,La Serena,3
+N3175,La Serena,1
+N3176,La Serena,2
+N3177,La Serena,1
+N3178,La Serena,2
+N3179,La Serena,2
+N3180,La Serena,1
+N3181,La Serena,6
+N3182,La Serena,1
+N3183,La Serena,1
+N3184,La Serena,7
+N3185,La Serena,2
+N3186,La Serena,1
+N3187,La Serena,13
+N3188,La Serena,4
+N3189,La Serena,6
+N3190,La Serena,4
+N3191,La Serena,3
+N3192,La Serena,1
+N3193,La Serena,1
+N3194,La Serena,12
+N3195,La Serena,3
+N3196,La Serena,10
+N3197,La Serena,7
+N3198,La Serena,1
+N3199,La Serena,1
+N3200,La Serena,2
+N3201,La Serena,1
+N3202,La Serena,2
+N3203,La Serena,2
+N3204,La Serena,3
+N3205,La Serena,2
+N3206,La Serena,1
+N3207,La Serena,7
+N3208,La Serena,4
+N3209,La Serena,4
+N3210,La Serena,1
+N3211,La Serena,7
+N3212,La Serena,3
+N3213,La Serena,8
+N3214,La Serena,1
+N3215,La Serena,2
+N3216,La Serena,1
+N3217,La Serena,1
+N3218,La Serena,2
+N3219,La Serena,32
+N3220,La Serena,3
+N3221,La Serena,12
+N3222,La Serena,14
+N3223,La Serena,8
+N3224,La Serena,9
+N3225,La Serena,7
+N3226,La Serena,14
+N3227,La Serena,4
+N3228,La Serena,6
+N3229,La Serena,1
+N3230,La Serena,1
+N3231,La Serena,2
+N3232,La Serena,1
+N3233,La Serena,2
+N3234,La Serena,5
+N3235,La Serena,3
+N3236,La Serena,2
+N3237,La Serena,8
+N3238,La Serena,2
+N3239,La Serena,6
+N3240,La Serena,1
+N3241,La Serena,2
+N3242,La Serena,2
+N3243,La Serena,3
+N3244,La Serena,2
+N3245,La Serena,2
+N3246,La Serena,1
+N3247,La Serena,1
+N3248,La Serena,1
+N3249,La Serena,1
+N3250,La Serena,2
+N3251,La Serena,1
+N3252,La Serena,1
+N3253,La Serena,1
+N3254,La Serena,1
+N3255,La Serena,1
+N3256,La Serena,1
+N3257,La Serena,1
+N3258,La Serena,1
+N3259,La Serena,1
+N3260,La Serena,1
+N3261,La Serena,1
+N3262,La Serena,1
+N3263,La Serena,1
+N3264,La Serena,1
+N3265,La Serena,4
+N3266,La Serena,7
+N3267,La Serena,2
+N3268,La Serena,3
+N3269,La Serena,2
+N3270,La Serena,3
+N3271,La Serena,4
+N3272,La Serena,4
+N3273,La Serena,1
+N3274,La Serena,1
+N3275,La Serena,1
+N3276,La Serena,10
+N3277,La Serena,2
+N3278,La Serena,1
+N3279,La Serena,1
+N3280,La Serena,4
+N3281,La Serena,3
+N3282,La Serena,1
+N3283,La Serena,2
+N3284,La Serena,19
+N3285,La Serena,1
+N3286,La Serena,3
+N3287,La Serena,1
+N3288,La Serena,1
+N3289,La Serena,1
+N3290,La Serena,1
+N3291,La Serena,1
+N3292,La Serena,1
+N3293,La Serena,1
+N3294,La Serena,1
+N3295,La Serena,1
+N3296,La Serena,1
+N3297,La Serena,1
+N3298,La Serena,1
+N3299,La Serena,1
+N3300,La Serena,1
+N3301,La Serena,1
+N3302,La Serena,1
+N3303,La Serena,2
+N3304,La Serena,1
+N3305,La Serena,7
+N3306,La Serena,4
+N3307,La Serena,1
+N3308,La Serena,4
+N3309,La Serena,2
+N3310,La Serena,3
+N3311,La Serena,4
+N3312,La Serena,1
+N3313,La Serena,1
+N3314,La Serena,3
+N3315,La Serena,1
+N3316,La Serena,1
+N3317,La Serena,2
+N3318,La Serena,5
+N3319,La Serena,1
+N3320,La Serena,2
+N3321,La Serena,1
+N3322,La Serena,1
+N3323,La Serena,1
+N3324,La Serena,1
+N3325,La Serena,1
+N3326,La Serena,1
+N3327,La Serena,1
+N3328,La Serena,3
+N3329,La Serena,4
+N3330,La Serena,1
+N3331,La Serena,2
+N3332,La Serena,3
+N3333,La Serena,1
+N3334,La Serena,1
+N3335,La Serena,3
+N3336,La Serena,1
+N3337,La Serena,1
+N3338,La Serena,1
+N3339,La Serena,1
+N3340,La Serena,1
+N3341,La Serena,1
+N3342,La Serena,1
+N3343,La Serena,1
+N3344,La Serena,6
+N3345,La Serena,1
+N3346,La Serena,6
+N3347,La Serena,1
+N3348,La Serena,3
+N3349,La Serena,1
+N3350,La Serena,1
+N3351,La Serena,2
+N3352,La Serena,1
+N3353,La Serena,1
+N3354,La Serena,1
+N3355,La Serena,1
+N3356,La Serena,2
+N3357,La Serena,2
+N3358,La Serena,2
+N3359,La Serena,2
+N3360,La Serena,2
+N3361,La Serena,2
+N3362,La Serena,2
+N3363,La Serena,1
+N3364,La Serena,1
+N3365,La Serena,3
+N3366,La Serena,2
+N3367,La Serena,1
+N3368,La Serena,3
+N3369,La Serena,3
+N3370,La Serena,3
+N3371,La Serena,1
+N3372,La Serena,2
+N3373,La Serena,2
+N3374,La Serena,2
+N3375,La Serena,3
+N3376,La Serena,1
+N3377,La Serena,1
+N3378,La Serena,6
+N3379,La Serena,1
+N3380,La Serena,3
+N3381,La Serena,1
+N3382,La Serena,3
+N3383,La Serena,1
+N3384,La Serena,4
+N3385,La Serena,3
+N3386,La Serena,1
+N3387,La Serena,2
+N3388,La Serena,12
+N3389,La Serena,2
+N3390,La Serena,3
+N3391,La Serena,4
+N3392,La Serena,1
+N3393,La Serena,9
+N3394,La Serena,5
+N3395,La Serena,6
+N3396,La Serena,3
+N3397,La Serena,2
+N3398,La Serena,3
+N3399,La Serena,2
+N3400,La Serena,2
+N3401,La Serena,2
+N3402,La Serena,1
+N3403,La Serena,2
+N3404,La Serena,1
+N3405,La Serena,1
+N3406,La Serena,1
+N3407,La Serena,1
+N3408,La Serena,5
+N3409,La Serena,6
+N3410,La Serena,1
+N3411,La Serena,1
+N3412,La Serena,2
+N3413,La Serena,3
+N3414,La Serena,1
+N3415,La Serena,1
+N3416,La Serena,10
+N3417,La Serena,2
+N3418,La Serena,8
+N3419,La Serena,5
+N3420,La Serena,7
+N3421,La Serena,3
+N3422,La Serena,1
+N3423,La Serena,1
+N3424,La Serena,2
+N3425,La Serena,1
+N3426,La Serena,6
+N3427,La Serena,1
+N3428,La Serena,2
+N3429,La Serena,1
+N3430,La Serena,1
+N3431,La Serena,4
+N3432,La Serena,1
+N3433,La Serena,3
+N3434,La Serena,1
+N3435,La Serena,2
+N3436,La Serena,11
+N3437,La Serena,1
+N3438,La Serena,1
+N3439,La Serena,1
+N3440,La Serena,1
+N3441,La Serena,1
+N3442,La Serena,2
+N3443,La Serena,2
+N3444,La Serena,1
+N3445,La Serena,1
+N3446,La Serena,1
+N3447,La Serena,1
+N3448,La Serena,1
+N3449,La Serena,1
+N3450,La Serena,1
+N3451,La Serena,1
+N3452,La Serena,1
+N3453,La Serena,7
+N3454,La Serena,7
+N3455,La Serena,2
+N3456,La Serena,5
+N3457,La Serena,4
+N3458,La Serena,4
+N3459,La Serena,5
+N3460,La Serena,1
+N3461,La Serena,1
+N3462,La Serena,4
+N3463,La Serena,3
+N3464,La Serena,1
+N3465,La Serena,2
+N3466,La Serena,1
+N3467,La Serena,1
+N3468,La Serena,1
+N3469,La Serena,2
+N3470,La Serena,1
+N3471,La Serena,1
+N3472,La Serena,1
+N3473,La Serena,1
+N3474,La Serena,1
+N3475,La Serena,1
+N3476,La Serena,1
+N3477,La Serena,1
+N3478,La Serena,1
+N3479,La Serena,1
+N3480,La Serena,2
+N3481,La Serena,2
+N3482,La Serena,3
+N3483,La Serena,2
+N3484,La Serena,3
+N3485,La Serena,2
+N3486,La Serena,4
+N3487,La Serena,1
+N3488,La Serena,1
+N3489,La Serena,1
+N3490,La Serena,1
+N3491,La Serena,2
+N3492,La Serena,6
+N3493,La Serena,1
+N3494,La Serena,10
+N3495,La Serena,4
+N3496,La Serena,2
+N3497,La Serena,1
+N3498,La Serena,1
+N3499,La Serena,1
+N3500,La Serena,3
+N3501,La Serena,3
+N3502,La Serena,1
+N3503,La Serena,3
+N3504,La Serena,1
+N3505,La Serena,3
+N3506,La Serena,1
+N3507,La Serena,1
+N3508,La Serena,1
+N3509,La Serena,1
+N3510,La Serena,1
+N3511,La Serena,1
+N3512,La Serena,1
+N3513,La Serena,1
+N3514,La Serena,2
+N3515,La Serena,1
+N3516,La Serena,3
+N3517,La Serena,1
+N3518,La Serena,1
+N3519,La Serena,1
+N3520,La Serena,1
+N3521,La Serena,5
+N3522,La Serena,5
+N3523,La Serena,2
+N3524,La Serena,2
+N3525,La Serena,6
+N3526,La Serena,1
+N3527,La Serena,1
+N3528,La Serena,1
+N3529,La Serena,2
+N3530,La Serena,1
+N3531,La Serena,1
+N3532,La Serena,2
+N3533,La Serena,4
+N3534,La Serena,1
+N3535,La Serena,1
+N3536,La Serena,2
+N3537,La Serena,2
+N3538,La Serena,4
+N3539,La Serena,6
+N3540,La Serena,3
+N3541,La Serena,1
+N3542,La Serena,1
+N3543,La Serena,1
+N3544,La Serena,1
+N3545,La Serena,9
+N3546,La Serena,1
+N3547,La Serena,11
+N3548,La Serena,4
+N3549,La Serena,5
+N3550,La Serena,4
+N3551,La Serena,1
+N3552,La Serena,2
+N3553,La Serena,1
+N3554,La Serena,4
+N3555,La Serena,1
+N3556,La Serena,1
+N3557,La Serena,1
+N3558,La Serena,1
+N3559,La Serena,1
+N3560,La Serena,1
+N3561,La Serena,1
+N3562,La Serena,1
+N3563,La Serena,7
+N3564,La Serena,1
+N3565,La Serena,3
+N3566,La Serena,5
+N3567,La Serena,10
+N3568,La Serena,2
+N3569,La Serena,6
+N3570,La Serena,1
+N3571,La Serena,1
+N3572,La Serena,1
+N3573,La Serena,1
+N3574,La Serena,3
+N3575,La Serena,1
+N3576,La Serena,4
+N3577,La Serena,1
+N3578,La Serena,1
+N3579,La Serena,1
+N3580,La Serena,1
+N3581,La Serena,1
+N3582,La Serena,1
+N3583,La Serena,1
+N3584,La Serena,1
+N3585,La Serena,1
+N3586,La Serena,1
+N3587,La Serena,1
+N3588,La Serena,2
+N3589,La Serena,14
+N3590,La Serena,4
+N3591,La Serena,12
+N3592,La Serena,2
+N3593,La Serena,12
+N3594,La Serena,3
+N3595,La Serena,6
+N3596,La Serena,2
+N3597,La Serena,5
+N3598,La Serena,4
+N3599,La Serena,1
+N3600,La Serena,7
+N3601,La Serena,1
+N3602,La Serena,5
+N3603,La Serena,4
+N3604,La Serena,1
+N3605,La Serena,2
+N3606,La Serena,11
+N3607,La Serena,6
+N3608,La Serena,3
+N3609,La Serena,4
+N3610,La Serena,3
+N3611,La Serena,1
+N3612,La Serena,1
+N3613,La Serena,1
+N3614,La Serena,2
+N3615,La Serena,10
+N3616,La Serena,5
+N3617,La Serena,11
+N3618,La Serena,6
+N3619,La Serena,3
+N3620,La Serena,6
+N3621,La Serena,2
+N3622,La Serena,1
+N3623,La Serena,2
+N3624,La Serena,7
+N3625,La Serena,17
+N3626,La Serena,2
+N3627,La Serena,3
+N3628,La Serena,1
+N3629,La Serena,2
+N3630,La Serena,3
+N3631,La Serena,2
+N3632,La Serena,2
+N3633,La Serena,3
+N3634,La Serena,3
+N3635,La Serena,3
+N3636,La Serena,5
+N3637,La Serena,2
+N3638,La Serena,1
+N3639,La Serena,2
+N3640,La Serena,1
+N3641,La Serena,1
+N3642,La Serena,3
+N3643,La Serena,2
+N3644,La Serena,2
+N3645,La Serena,3
+N3646,La Serena,1
+N3647,La Serena,1
+N3648,La Serena,1
+N3649,La Serena,1
+N3650,La Serena,1
+N3651,La Serena,1
+N3652,La Serena,1
+N3653,La Serena,1
+N3654,La Serena,4
+N3655,La Serena,2
+N3656,La Serena,1
+N3657,La Serena,2
+N3658,La Serena,4
+N3659,La Serena,3
+N3660,La Serena,1
+N3661,La Serena,4
+N3662,La Serena,2
+N3663,La Serena,3
+N3664,La Serena,3
+N3665,La Serena,2
+N3666,La Serena,3
+N3667,La Serena,4
+N3668,La Serena,5
+N3669,La Serena,3
+N3670,La Serena,3
+N3671,La Serena,3
+N3672,La Serena,1
+N3673,La Serena,1
+N3674,La Serena,3
+N3675,La Serena,5
+N3676,La Serena,11
+N3677,La Serena,6
+N3678,La Serena,3
+N3679,La Serena,1
+N3680,La Serena,1
+N3681,La Serena,1
+N3682,La Serena,2
+N3683,La Serena,2
+N3684,La Serena,1
+N3685,La Serena,1
+N3686,La Serena,3
+N3687,La Serena,1
+N3688,La Serena,1
+N3689,La Serena,1
+N3690,La Serena,1
+N3691,La Serena,1
+N3692,La Serena,1
+N3693,La Serena,3
+N3694,La Serena,1
+N3695,La Serena,2
+N3696,La Serena,1
+N3697,La Serena,1
+N3698,La Serena,5
+N3699,La Serena,4
+N3700,La Serena,7
+N3701,La Serena,10
+N3702,La Serena,2
+N3703,La Serena,3
+N3704,La Serena,2
+N3705,La Serena,5
+N3706,La Serena,4
+N3707,La Serena,20
+N3708,La Serena,6
+N3709,La Serena,1
+N3710,La Serena,2
+N3711,La Serena,2
+N3712,La Serena,8
+N3713,La Serena,3
+N3714,La Serena,1
+N3715,La Serena,2
+N3716,La Serena,2
+N3717,La Serena,2
+N3718,La Serena,1
+N3719,La Serena,1
+N3720,La Serena,2
+N3721,La Serena,1
+N3722,La Serena,1
+N3723,La Serena,1
+N3724,La Serena,1
+N3725,La Serena,1
+N3726,La Serena,3
+N3727,La Serena,1
+N3728,La Serena,2
+N3729,La Serena,11
+N3730,La Serena,8
+N3731,La Serena,6
+N3732,La Serena,10
+N3733,La Serena,3
+N3734,La Serena,2
+N3735,La Serena,7
+N3736,La Serena,6
+N3737,La Serena,2
+N3738,La Serena,2
+N3739,La Serena,6
+N3740,La Serena,3
+N3741,La Serena,4
+N3742,La Serena,2
+N3743,La Serena,3
+N3744,La Serena,2
+N3745,La Serena,2
+N3746,La Serena,2
+N3747,La Serena,4
+N3748,La Serena,8
+N3749,La Serena,5
+N3750,La Serena,6
+N3751,La Serena,3
+N3752,La Serena,3
+N3753,La Serena,5
+N3754,La Serena,1
+N3755,La Serena,1
+N3756,La Serena,1
+N3757,La Serena,1
+N3758,La Serena,1
+N3759,La Serena,1
+N3760,La Serena,4
+N3761,La Serena,4
+N3762,La Serena,27
+N3763,La Serena,3
+N3764,La Serena,13
+N3765,La Serena,2
+N3766,La Serena,4
+N3767,La Serena,8
+N3768,La Serena,5
+N3769,La Serena,2
+N3770,La Serena,8
+N3771,La Serena,6
+N3772,La Serena,13
+N3773,La Serena,4
+N3774,La Serena,1
+N3775,La Serena,4
+N3776,La Serena,6
+N3777,La Serena,1
+N3778,La Serena,1
+N3779,La Serena,1
+N3780,La Serena,1
+N3781,La Serena,3
+N3782,La Serena,4
+N3783,La Serena,4
+N3784,La Serena,1
+N3785,La Serena,2
+N3786,La Serena,1
+N3787,La Serena,7
+N3788,La Serena,1
+N3789,La Serena,1
+N3790,La Serena,1
+N3791,La Serena,1
+N3792,La Serena,1
+N3793,La Serena,2
+N3794,La Serena,1
+N3795,La Serena,1
+N3796,La Serena,9
+N3797,La Serena,3
+N3798,La Serena,3
+N3799,La Serena,8
+N3800,La Serena,13
+N3801,La Serena,14
+N3802,La Serena,8
+N3803,La Serena,7
+N3804,La Serena,10
+N3805,La Serena,6
+N3806,La Serena,11
+N3807,La Serena,2
+N3808,La Serena,6
+N3809,La Serena,3
+N3810,La Serena,3
+N3811,La Serena,7
+N3812,La Serena,2
+N3813,La Serena,3
+N3814,La Serena,5
+N3815,La Serena,3
+N3816,La Serena,6
+N3817,La Serena,2
+N3818,La Serena,4
+N3819,La Serena,9
+N3820,La Serena,6
+N3821,La Serena,14
+N3822,La Serena,5
+N3823,La Serena,9
+N3824,La Serena,6
+N3825,La Serena,2
+N3826,La Serena,1
+N3827,La Serena,1
+N3828,La Serena,1
+N3829,La Serena,1
+N3830,La Serena,1
+N3831,La Serena,1
+N3832,La Serena,8
+N3833,La Serena,1
+N3834,La Serena,8
+N3835,La Serena,2
+N3836,La Serena,3
+N3837,La Serena,8
+N3838,La Serena,3
+N3839,La Serena,4
+N3840,La Serena,12
+N3841,La Serena,2
+N3842,La Serena,8
+N3843,La Serena,3
+N3844,La Serena,12
+N3845,La Serena,2
+N3846,La Serena,5
+N3847,La Serena,1
+N3848,La Serena,11
+N3849,La Serena,9
+N3850,La Serena,5
+N3851,La Serena,2
+N3852,La Serena,2
+N3853,La Serena,1
+N3854,La Serena,1
+N3855,La Serena,6
+N3856,La Serena,1
+N3857,La Serena,1
+N3858,La Serena,1
+N3859,La Serena,1
+N3860,La Serena,1
+N3861,La Serena,1
+N3862,La Serena,1
+N3863,La Serena,19
+N3864,La Serena,6
+N3865,La Serena,3
+N3866,La Serena,6
+N3867,La Serena,1
+N3868,La Serena,7
+N3869,La Serena,13
+N3870,La Serena,7
+N3871,La Serena,1
+N3872,La Serena,2
+N3873,La Serena,1
+N3874,La Serena,19
+N3875,La Serena,3
+N3876,La Serena,4
+N3877,La Serena,4
+N3878,La Serena,7
+N3879,La Serena,7
+N3880,La Serena,7
+N3881,La Serena,5
+N3882,La Serena,4
+N3883,La Serena,2
+N3884,La Serena,1
+N3885,La Serena,3
+N3886,La Serena,11
+N3887,La Serena,1
+N3888,La Serena,1
+N3889,La Serena,6
+N3890,La Serena,3
+N3891,La Serena,1
+N3892,La Serena,5
+N3893,La Serena,4
+N3894,La Serena,6
+N3895,La Serena,2
+N3896,La Serena,3
+N3897,La Serena,8
+N3898,La Serena,18
+N3899,La Serena,6
+N3900,La Serena,7
+N3901,La Serena,1
+N3902,La Serena,1
+N3903,La Serena,1
+N3904,La Serena,1
+N3905,La Serena,1
+N3906,La Serena,1
+N3907,La Serena,1
+N3908,La Serena,5
+N3909,La Serena,2
+N3910,La Serena,1
+N3911,La Serena,2
+N3912,La Serena,4
+N3913,La Serena,7
+N3914,La Serena,9
+N3915,La Serena,5
+N3916,La Serena,11
+N3917,La Serena,19
+N3918,La Serena,9
+N3919,La Serena,15
+N3920,La Serena,17
+N3921,La Serena,5
+N3922,La Serena,5
+N3923,La Serena,5
+N3924,La Serena,15
+N3925,La Serena,9
+N3926,La Serena,16
+N3927,La Serena,6
+N3928,La Serena,2
+N3929,La Serena,5
+N3930,La Serena,6
+N3931,La Serena,73
+N3932,La Serena,4
+N3933,La Serena,7
+N3934,La Serena,2
+N3935,La Serena,7
+N3936,La Serena,11
+N3937,La Serena,6
+N3938,La Serena,7
+N3939,La Serena,22
+N3940,La Serena,15
+N3941,La Serena,15
+N3942,La Serena,8
+N3943,La Serena,7
+N3944,La Serena,2
+N3945,La Serena,1
+N3946,La Serena,2
+N3947,La Serena,1
+N3948,La Serena,2
+N3949,La Serena,1
+N3950,La Serena,1
+N3951,La Serena,11
+N3952,La Serena,1
+N3953,La Serena,1
+N3954,La Serena,2
+N3955,La Serena,5
+N3956,La Serena,4
+N3957,La Serena,9
+N3958,La Serena,3
+N3959,La Serena,2
+N3960,La Serena,13
+N3961,La Serena,56
+N3962,La Serena,1
+N3963,La Serena,8
+N3964,La Serena,3
+N3965,La Serena,1
+N3966,La Serena,6
+N3967,La Serena,2
+N3968,La Serena,1
+N3969,La Serena,2
+N3970,La Serena,2
+N3971,La Serena,4
+N3972,La Serena,4
+N3973,La Serena,20
+N3974,La Serena,9
+N3975,La Serena,5
+N3976,La Serena,19
+N3977,La Serena,13
+N3978,La Serena,2
+N3979,La Serena,6
+N3980,La Serena,7
+N3981,La Serena,2
+N3982,La Serena,12
+N3983,La Serena,2
+N3984,La Serena,6
+N3985,La Serena,1
+N3986,La Serena,1
+N3987,La Serena,1
+N3988,La Serena,1
+N3989,La Serena,2
+N3990,La Serena,10
+N3991,La Serena,5
+N3992,La Serena,3
+N3993,La Serena,1
+N3994,La Serena,2
+N3995,La Serena,1
+N3996,La Serena,1
+N3997,La Serena,2
+N3998,La Serena,1
+N3999,La Serena,1
+N4000,La Serena,1
+N4001,La Serena,6
+N4002,La Serena,13
+N4003,La Serena,2
+N4004,La Serena,31
+N4005,La Serena,18
+N4006,La Serena,4
+N4007,La Serena,9
+N4008,La Serena,31
+N4009,La Serena,6
+N4010,La Serena,5
+N4011,La Serena,11
+N4012,La Serena,7
+N4013,La Serena,5
+N4014,La Serena,3
+N4015,La Serena,2
+N4016,La Serena,3
+N4017,La Serena,4
+N4018,La Serena,1
+N4019,La Serena,3
+N4020,La Serena,2
+N4021,La Serena,3
+N4022,La Serena,2
+N4023,La Serena,1
+N4024,La Serena,4
+N4025,La Serena,3
+N4026,La Serena,2
+N4027,La Serena,2
+N4028,La Serena,4
+N4029,La Serena,1
+N4030,La Serena,6
+N4031,La Serena,1
+N4032,La Serena,1
+N4033,La Serena,1
+N4034,La Serena,1
+N4035,La Serena,2
+N4036,La Serena,2
+N4037,La Serena,9
+N4038,La Serena,5
+N4039,La Serena,10
+N4040,La Serena,2
+N4041,La Serena,68
+N4042,La Serena,10
+N4043,La Serena,16
+N4044,La Serena,23
+N4045,La Serena,7
+N4046,La Serena,8
+N4047,La Serena,5
+N4048,La Serena,8
+N4049,La Serena,4
+N4050,La Serena,8
+N4051,La Serena,16
+N4052,La Serena,16
+N4053,La Serena,2
+N4054,La Serena,1
+N4055,La Serena,1
+N4056,La Serena,1
+N4057,La Serena,1
+N4058,La Serena,1
+N4059,La Serena,1
+N4060,La Serena,1
+N4061,La Serena,1
+N4062,La Serena,1
+N4063,La Serena,6
+N4064,La Serena,1
+N4065,La Serena,1
+N4066,La Serena,3
+N4067,La Serena,1
+N4068,La Serena,1
+N4069,La Serena,1
+N4070,La Serena,1
+N4071,La Serena,1
+N4072,La Serena,1
+N4073,La Serena,1
+N4074,La Serena,1
+N4075,La Serena,1
+N4076,La Serena,1
+N4077,La Serena,1
+N4078,La Serena,1
+N4079,La Serena,2
+N4080,La Serena,1
+N4081,La Serena,2
+N4082,La Serena,1
+N4083,La Serena,1
+N4084,La Serena,1
+N4085,La Serena,1
+N4086,La Serena,3
+N4087,La Serena,1
+N4088,La Serena,1
+N4089,La Serena,1
+N4090,La Serena,2
+N4091,La Serena,1
+N4092,La Serena,1
+N4093,La Serena,1
+N4094,La Serena,1
+N4095,La Serena,1
+N4096,La Serena,1
+N4097,La Serena,2
+N4098,La Serena,2
+N4099,La Serena,4
+N4100,La Serena,4
+N4101,La Serena,2
+N4102,La Serena,1
+N4103,La Serena,5
+N4104,La Serena,1
+N4105,La Serena,2
+N4106,La Serena,1
+N4107,La Serena,2
+N4108,La Serena,2
+N4109,La Serena,3
+N4110,La Serena,1
+N4111,La Serena,1
+N4112,La Serena,3
+N4113,La Serena,7
+N4114,La Serena,1
+N4115,La Serena,12
+N4116,La Serena,1
+N4117,La Serena,3
+N4118,La Serena,1
+N4119,La Serena,1
+N4120,La Serena,1
+N4121,La Serena,1
+N4122,La Serena,1
+N4123,La Serena,4
+N4124,La Serena,1
+N4125,La Serena,4
+N4126,La Serena,4
+N4127,La Serena,10
+N4128,La Serena,4
+N4129,La Serena,10
+N4130,La Serena,3
+N4131,La Serena,19
+N4132,La Serena,2
+N4133,La Serena,1
+N4134,La Serena,1
+N4135,La Serena,2
+N4136,La Serena,1
+N4137,La Serena,2
+N4138,La Serena,2
+N4139,La Serena,1
+N4140,La Serena,1
+N4141,La Serena,4
+N4142,La Serena,1
+N4143,La Serena,1
+N4144,La Serena,5
+N4145,La Serena,4
+N4146,La Serena,2
+N4147,La Serena,2
+N4148,La Serena,1
+N4149,La Serena,1
+N4150,La Serena,1
+N4151,La Serena,4
+N4152,La Serena,7
+N4153,La Serena,1
+N4154,La Serena,6
+N4155,La Serena,10
+N4156,La Serena,1
+N4157,La Serena,1
+N4158,La Serena,7
+N4159,La Serena,1
+N4160,La Serena,1
+N4161,La Serena,1
+N4162,La Serena,2
+N4163,La Serena,1
+N4164,La Serena,3
+N4165,La Serena,1
+N4166,La Serena,3
+N4167,La Serena,1
+N4168,La Serena,1
+N4169,La Serena,1
+N4170,La Serena,1
+N4171,La Serena,2
+N4172,La Serena,3
+N4173,La Serena,1
+N4174,La Serena,1
+N4175,La Serena,2
+N4176,La Serena,2
+N4177,La Serena,1
+N4178,La Serena,10
+N4179,La Serena,5
+N4180,La Serena,6
+N4181,La Serena,3
+N4182,La Serena,1
+N4183,La Serena,1
+N4184,La Serena,3
+N4185,La Serena,1
+N4186,La Serena,5
+N4187,La Serena,3
+N4188,La Serena,2
+N4189,La Serena,1
+N4190,La Serena,25
+N4191,La Serena,1
+N4192,La Serena,1
+N4193,La Serena,7
+N4194,La Serena,1
+N4195,La Serena,6
+N4196,La Serena,3
+N4197,La Serena,3
+N4198,La Serena,7
+N4199,La Serena,1
+N4200,La Serena,1
+N4201,La Serena,15
+N4202,La Serena,3
+N4203,La Serena,6
+N4204,La Serena,4
+N4205,La Serena,2
+N4206,La Serena,4
+N4207,La Serena,4
+N4208,La Serena,7
+N4209,La Serena,3
+N4210,La Serena,2
+N4211,La Serena,1
+N4212,La Serena,3
+N4213,La Serena,31
+N4214,La Serena,2
+N4215,La Serena,4
+N4216,La Serena,1
+N4217,La Serena,2
+N4218,La Serena,3
+N4219,La Serena,2
+N4220,La Serena,1
+N4221,La Serena,2
+N4222,La Serena,7
+N4223,La Serena,4
+N4224,La Serena,10
+N4225,La Serena,3
+N4226,La Serena,11
+N4227,La Serena,5
+N4228,La Serena,9
+N4229,La Serena,1
+N4230,La Serena,9
+N4231,La Serena,9
+N4232,La Serena,6
+N4233,La Serena,2
+N4234,La Serena,1
+N4235,La Serena,1
+N4236,La Serena,1
+N4237,La Serena,1
+N4238,La Serena,1
+N4239,La Serena,1
+N4240,La Serena,1
+N4241,La Serena,9
+N4242,La Serena,1
+N4243,La Serena,2
+N4244,La Serena,1
+N4245,La Serena,1
+N4246,La Serena,1
+N4247,La Serena,5
+N4248,La Serena,1
+N4249,La Serena,1
+N4250,La Serena,1
+N4251,La Serena,4
+N4252,La Serena,1
+N4253,La Serena,4
+N4254,La Serena,1
+N4255,La Serena,8
+N4256,La Serena,1
+N4257,La Serena,1
+N4258,La Serena,2
+N4259,La Serena,14
+N4260,La Serena,1
+N4261,La Serena,2
+N4262,La Serena,4
+N4263,La Serena,1
+N4264,La Serena,2
+N4265,La Serena,1
+N4266,La Serena,1
+N4267,La Serena,1
+N4268,La Serena,2
+N4269,La Serena,1
+N4270,La Serena,3
+N4271,La Serena,1
+N4272,La Serena,1
+N4273,La Serena,1
+N4274,La Serena,1
+N4275,La Serena,1
+N4276,La Serena,1
+N4277,La Serena,1
+N4278,La Serena,1
+N4279,La Serena,1
+N4280,La Serena,1
+N4281,La Serena,13
+N4282,La Serena,1
+N4283,La Serena,1
+N4284,La Serena,1
+N4285,La Serena,3
+N4286,La Serena,2
+N4287,La Serena,3
+N4288,La Serena,1
+N4289,La Serena,2
+N4290,La Serena,4
+N4291,La Serena,1
+N4292,La Serena,1
+N4293,La Serena,3
+N4294,La Serena,4
+N4295,La Serena,2
+N4296,La Serena,2
+N4297,La Serena,4
+N4298,La Serena,3
+N4299,La Serena,3
+N4300,La Serena,3
+N4301,La Serena,14
+N4302,La Serena,1
+N4303,La Serena,13
+N4304,La Serena,1
+N4305,La Serena,3
+N4306,La Serena,3
+N4307,La Serena,1
+N4308,La Serena,3
+N4309,La Serena,1
+N4310,La Serena,8
+N4311,La Serena,15
+N4312,La Serena,1
+N4313,La Serena,1
+N4314,La Serena,9
+N4315,La Serena,5
+N4316,La Serena,5
+N4317,La Serena,1
+N4318,La Serena,4
+N4319,La Serena,2
+N4320,La Serena,4
+N4321,La Serena,1
+N4322,La Serena,11
+N4323,La Serena,8
+N4324,La Serena,2
+N4325,La Serena,1
+N4326,La Serena,3
+N4327,La Serena,8
+N4328,La Serena,7
+N4329,La Serena,1
+N4330,La Serena,1
+N4331,La Serena,3
+N4332,La Serena,4
+N4333,La Serena,3
+N4334,La Serena,3
+N4335,La Serena,3
+N4336,La Serena,3
+N4337,La Serena,3
+N4338,La Serena,2
+N4339,La Serena,7
+N4340,La Serena,1
+N4341,La Serena,3
+N4342,La Serena,9
+N4343,La Serena,6
+N4344,La Serena,5
+N4345,La Serena,1
+N4346,La Serena,7
+N4347,La Serena,7
+N4348,La Serena,2
+N4349,La Serena,3
+N4350,La Serena,2
+N4351,La Serena,4
+N4352,La Serena,6
+N4353,La Serena,2
+N4354,La Serena,3
+N4355,La Serena,3
+N4356,La Serena,5
+N4357,La Serena,2
+N4358,La Serena,5
+N4359,La Serena,5
+N4360,La Serena,7
+N4361,La Serena,4
+N4362,La Serena,3
+N4363,La Serena,6
+N4364,La Serena,2
+N4365,La Serena,3
+N4366,La Serena,6
+N4367,La Serena,11
+N4368,La Serena,2
+N4369,La Serena,5
+N4370,La Serena,2
+N4371,La Serena,1
+N4372,La Serena,4
+N4373,La Serena,13
+N4374,La Serena,1
+N4375,La Serena,3
+N4376,La Serena,9
+N4377,La Serena,4
+N4378,La Serena,3
+N4379,La Serena,9
+N4380,La Serena,2
+N4381,La Serena,10
+N4382,La Serena,4
+N4383,La Serena,4
+N4384,La Serena,3
+N4385,La Serena,6
+N4386,La Serena,8
+N4387,La Serena,2
+N4388,La Serena,2
+N4389,La Serena,7
+N4390,La Serena,2
+N4391,La Serena,8
+N4392,La Serena,6
+N4393,La Serena,8
+N4394,La Serena,9
+N4395,La Serena,10
+N4396,La Serena,6
+N4397,La Serena,2
+N4398,La Serena,3
+N4399,La Serena,5
+N4400,La Serena,2
+N4401,La Serena,4
+N4402,La Serena,4
+N4403,La Serena,1
+N4404,La Serena,2
+N4405,La Serena,1
+N4406,La Serena,3
+N4407,La Serena,4
+N4408,La Serena,2
+N4409,La Serena,2
+N4410,La Serena,1
+N4411,La Serena,3
+N4412,La Serena,13
+N4413,La Serena,2
+N4414,La Serena,1
+N4415,La Serena,6
+N4416,La Serena,14
+N4417,La Serena,1
+N4418,La Serena,4
+N4419,La Serena,3
+N4420,La Serena,3
+N4421,La Serena,2
+N4422,La Serena,10
+N4423,La Serena,4
+N4424,La Serena,5
+N4425,La Serena,4
+N4426,La Serena,8
+N4427,La Serena,3
+N4428,La Serena,5
+N4429,La Serena,9
+N4430,La Serena,7
+N4431,La Serena,19
+N4432,La Serena,2
+N4433,La Serena,17
+N4434,La Serena,7
+N4435,La Serena,5
+N4436,La Serena,1
+N4437,La Serena,1
+N4438,La Serena,5
+N4439,La Serena,2
+N4440,La Serena,9
+N4441,La Serena,5
+N4442,La Serena,5
+N4443,La Serena,4
+N4444,La Serena,3
+N4445,La Serena,4
+N4446,La Serena,5
+N4447,La Serena,7
+N4448,La Serena,2
+N4449,La Serena,1
+N4450,La Serena,4
+N4451,La Serena,4
+N4452,La Serena,6
+N4453,La Serena,7
+N4454,La Serena,5
+N4455,La Serena,2
+N4456,La Serena,10
+N4457,La Serena,3
+N4458,La Serena,21
+N4459,La Serena,1
+N4460,La Serena,6
+N4461,La Serena,4
+N4462,La Serena,2
+N4463,La Serena,1
+N4464,La Serena,6
+N4465,La Serena,1
+N4466,La Serena,12
+N4467,La Serena,2
+N4468,La Serena,3
+N4469,La Serena,1
+N4470,La Serena,8
+N4471,La Serena,5
+N4472,La Serena,9
+N4473,La Serena,6
+N4474,La Serena,2
+N4475,La Serena,8
+N4476,La Serena,7
+N4477,La Serena,8
+N4478,La Serena,5
+N4479,La Serena,11
+N4480,La Serena,4
+N4481,La Serena,3
+N4482,La Serena,6
+N4483,La Serena,3
+N4484,La Serena,12
+N4485,La Serena,3
+N4486,La Serena,5
+N4487,La Serena,5
+N4488,La Serena,6
+N4489,La Serena,10
+N4490,La Serena,11
+N4491,La Serena,10
+N4492,La Serena,8
+N4493,La Serena,4
+N4494,La Serena,5
+N4495,La Serena,13
+N4496,La Serena,5
+N4497,La Serena,8
+N4498,La Serena,5
+N4499,La Serena,4
+N4500,La Serena,6
+N4501,La Serena,2
+N4502,La Serena,4
+N4503,La Serena,6
+N4504,La Serena,6
+N4505,La Serena,11
+N4506,La Serena,5
+N4507,La Serena,2
+N4508,La Serena,1
+N4509,La Serena,3
+N4510,La Serena,10
+N4511,La Serena,16
+N4512,La Serena,6
+N4513,La Serena,5
+N4514,La Serena,7
+N4515,La Serena,6
+N4516,La Serena,4
+N4517,La Serena,5
+N4518,La Serena,6
+N4519,La Serena,14
+N4520,La Serena,1
+N4521,La Serena,6
+N4522,La Serena,1
+N4523,La Serena,2
+N4524,La Serena,3
+N4525,La Serena,1
+N4526,La Serena,8
+N4527,La Serena,2
+N4528,La Serena,4
+N4529,La Serena,4
+N4530,La Serena,2
+N4531,La Serena,4
+N4532,La Serena,7
+N4533,La Serena,5
+N4534,La Serena,8
+N4535,La Serena,4
+N4536,La Serena,3
+N4537,La Serena,16
+N4538,La Serena,3
+N4539,La Serena,8
+N4540,La Serena,11
+N4541,La Serena,10
+N4542,La Serena,9
+N4543,La Serena,9
+N4544,La Serena,4
+N4545,La Serena,1
+N4546,La Serena,6
+N4547,La Serena,14
+N4548,La Serena,8
+N4549,La Serena,3
+N4550,La Serena,1
+N4551,La Serena,8
+N4552,La Serena,8
+N4553,La Serena,3
+N4554,La Serena,13
+N4555,La Serena,2
+N4556,La Serena,4
+N4557,La Serena,8
+N4558,La Serena,15
+N4559,La Serena,5
+N4560,La Serena,3
+N4561,La Serena,1
+N4562,La Serena,1
+N4563,La Serena,5
+N4564,La Serena,2
+N4565,La Serena,3
+N4566,La Serena,3
+N4567,La Serena,2
+N4568,La Serena,10
+N4569,La Serena,14
+N4570,La Serena,22
+N4571,La Serena,6
+N4572,La Serena,5
+N4573,La Serena,1
+N4574,La Serena,3
+N4575,La Serena,5
+N4576,La Serena,2
+N4577,La Serena,2
+N4578,La Serena,4
+N4579,La Serena,1
+N4580,La Serena,2
+N4581,La Serena,4
+N4582,La Serena,9
+N4583,La Serena,4
+N4584,La Serena,2
+N4585,La Serena,1
+N4586,La Serena,3
+N4587,La Serena,6
+N4588,La Serena,9
+N4589,La Serena,3
+N4590,La Serena,5
+N4591,La Serena,7
+N4592,La Serena,3
+N4593,La Serena,32
+N4594,La Serena,6
+N4595,La Serena,6
+N4596,La Serena,21
+N4597,La Serena,3
+N4598,La Serena,7
+N4599,La Serena,10
+N4600,La Serena,9
+N4601,La Serena,8
+N4602,La Serena,4
+N4603,La Serena,4
+N4604,La Serena,15
+N4605,La Serena,4
+N4606,La Serena,8
+N4607,La Serena,5
+N4608,La Serena,3
+N4609,La Serena,10
+N4610,La Serena,4
+N4611,La Serena,1
+N4612,La Serena,3
+N4613,La Serena,3
+N4614,La Serena,2
+N4615,La Serena,3
+N4616,La Serena,3
+N4617,La Serena,5
+N4618,La Serena,5
+N4619,La Serena,2
+N4620,La Serena,3
+N4621,La Serena,4
+N4622,La Serena,5
+N4623,La Serena,1
+N4624,La Serena,1
+N4625,La Serena,3
+N4626,La Serena,2
+N4627,La Serena,1
+N4628,La Serena,5
+N4629,La Serena,1
+N4630,La Serena,1
+N4631,La Serena,2
+N4632,La Serena,1
+N4633,La Serena,1
+N4634,La Serena,2
+N4635,La Serena,1
+N4636,La Serena,1
+N4637,La Serena,1
+N4638,La Serena,3
+N4639,La Serena,3
+N4640,La Serena,4
+N4641,La Serena,7
+N4642,La Serena,8
+N4643,La Serena,3
+N4644,La Serena,4
+N4645,La Serena,12
+N4646,La Serena,4
+N4647,La Serena,7
+N4648,La Serena,11
+N4649,La Serena,7
+N4650,La Serena,8
+N4651,La Serena,11
+N4652,La Serena,8
+N4653,La Serena,5
+N4654,La Serena,5
+N4655,La Serena,9
+N4656,La Serena,4
+N4657,La Serena,8
+N4658,La Serena,11
+N4659,La Serena,3
+N4660,La Serena,1
+N4661,La Serena,23
+N4662,La Serena,6
+N4663,La Serena,7
+N4664,La Serena,3
+N4665,La Serena,7
+N4666,La Serena,1
+N4667,La Serena,2
+N4668,La Serena,5
+N4669,La Serena,3
+N4670,La Serena,2
+N4671,La Serena,2
+N4672,La Serena,2
+N4673,La Serena,6
+N4674,La Serena,12
+N4675,La Serena,7
+N4676,La Serena,5
+N4677,La Serena,5
+N4678,La Serena,3
+N4679,La Serena,10
+N4680,La Serena,3
+N4681,La Serena,1
+N4682,La Serena,4
+N4683,La Serena,1
+N4684,La Serena,2
+N4685,La Serena,1
+N4686,La Serena,1
+N4687,La Serena,1
+N4688,La Serena,1
+N4689,La Serena,1
+N4690,La Serena,1
+N4691,La Serena,4
+N4692,La Serena,3
+N4693,La Serena,14
+N4694,La Serena,3
+N4695,La Serena,1
+N4696,La Serena,2
+N4697,La Serena,5
+N4698,La Serena,2
+N4699,La Serena,2
+N4700,La Serena,10
+N4701,La Serena,3
+N4702,La Serena,11
+N4703,La Serena,5
+N4704,La Serena,10
+N4705,La Serena,11
+N4706,La Serena,10
+N4707,La Serena,10
+N4708,La Serena,11
+N4709,La Serena,6
+N4710,La Serena,12
+N4711,La Serena,4
+N4712,La Serena,2
+N4713,La Serena,8
+N4714,La Serena,4
+N4715,La Serena,13
+N4716,La Serena,1
+N4717,La Serena,5
+N4718,La Serena,4
+N4719,La Serena,3
+N4720,La Serena,3
+N4721,La Serena,9
+N4722,La Serena,10
+N4723,La Serena,1
+N4724,La Serena,9
+N4725,La Serena,6
+N4726,La Serena,8
+N4727,La Serena,7
+N4728,La Serena,4
+N4729,La Serena,12
+N4730,La Serena,4
+N4731,La Serena,1
+N4732,La Serena,2
+N4733,La Serena,2
+N4734,La Serena,1
+N4735,La Serena,4
+N4736,La Serena,2
+N4737,La Serena,6
+N4738,La Serena,7
+N4739,La Serena,10
+N4740,La Serena,5
+N4741,La Serena,4
+N4742,La Serena,4
+N4743,La Serena,11
+N4744,La Serena,13
+N4745,La Serena,7
+N4746,La Serena,8
+N4747,La Serena,12
+N4748,La Serena,7
+N4749,La Serena,12
+N4750,La Serena,10
+N4751,La Serena,5
+N4752,La Serena,9
+N4753,La Serena,6
+N4754,La Serena,5
+N4755,La Serena,8
+N4756,La Serena,5
+N4757,La Serena,9
+N4758,La Serena,5
+N4759,La Serena,3
+N4760,La Serena,1
+N4761,La Serena,4
+N4762,La Serena,5
+N4763,La Serena,2
+N4764,La Serena,6
+N4765,La Serena,2
+N4766,La Serena,5
+N4767,La Serena,2
+N4768,La Serena,6
+N4769,La Serena,2
+N4770,La Serena,11
+N4771,La Serena,1
+N4772,La Serena,3
+N4773,La Serena,1
+N4774,La Serena,1
+N4775,La Serena,1
+N4776,La Serena,1
+N4777,La Serena,2
+N4778,La Serena,2
+N4779,La Serena,2
+N4780,La Serena,3
+N4781,La Serena,2
+N4782,La Serena,2
+N4783,La Serena,4
+N4784,La Serena,3
+N4785,La Serena,6
+N4786,La Serena,4
+N4787,La Serena,4
+N4788,La Serena,3
+N4789,La Serena,7
+N4790,La Serena,9
+N4791,La Serena,2
+N4792,La Serena,10
+N4793,La Serena,10
+N4794,La Serena,8
+N4795,La Serena,7
+N4796,La Serena,5
+N4797,La Serena,5
+N4798,La Serena,6
+N4799,La Serena,3
+N4800,La Serena,1
+N4801,La Serena,5
+N4802,La Serena,4
+N4803,La Serena,1
+N4804,La Serena,7
+N4805,La Serena,2
+N4806,La Serena,17
+N4807,La Serena,2
+N4808,La Serena,9
+N4809,La Serena,9
+N4810,La Serena,1
+N4811,La Serena,3
+N4812,La Serena,5
+N4813,La Serena,10
+N4814,La Serena,1
+N4815,La Serena,1
+N4816,La Serena,5
+N4817,La Serena,4
+N4818,La Serena,1
+N4819,La Serena,3

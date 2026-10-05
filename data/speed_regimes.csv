@@ -1,0 +1,4 @@
+regime,hours,speed_kmh
+night,00:00-08:00,27
+day,08:00-16:00,22
+evening,16:00-24:00,25

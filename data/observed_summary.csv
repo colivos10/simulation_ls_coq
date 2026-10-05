@@ -1,0 +1,5 @@
+quantity,n,mean,median,p90
+response_time,8684,17.73,16.0,29.0
+travel_time,8684,10.7,9.0,18.0
+setup_time,8684,7.04,5.0,12.0
+total_service_time,13879,55.13,51.0,

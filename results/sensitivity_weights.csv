@@ -1,0 +1,5 @@
+model,weights,objective,shared_with_paper,sites
+mclp,weights +1,96.71684061467457,7,B08 B20 B25 B30 B42 B49 B55 B65
+pmedian,weights +1,2.513757189559623,8,B08 B15 B23 B32 B42 B49 B56 B65
+mclp,raw counts,98.88405390230209,6,B08 B25 B27 B30 B42 B49 B55 B65
+pmedian,raw counts,2.268435218978102,8,B08 B15 B23 B32 B42 B49 B56 B65

@@ -1,0 +1,7 @@
+numpy>=1.26
+pandas>=2.2
+scipy>=1.13
+pingouin>=0.5.4
+matplotlib>=3.8
+# optional, only for 01_solve_location_models.py
+# gurobipy>=11.0
